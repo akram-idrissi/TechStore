@@ -6,4 +6,9 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="wwwroot\css\TechStore\" />
+    <Folder Include="wwwroot\js\TechStore\js\" />
+  </ItemGroup>
+
 </Project>
