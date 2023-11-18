@@ -1,63 +1,212 @@
 ﻿<!DOCTYPE html>
 <html lang="en">
-<>
+
+<head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>@ViewData["Title"] - TechStore</title>
-    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
-    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
-    <link rel="stylesheet" href="~/TechStore.styles.css" asp-append-version="true" />
 
     <!-- TechStore css -->
     <link rel="stylesheet" href="~/css/TechStore/font-awesome/css/font-awesome.min.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/js/TechStore/bootstrap/css/bootstrap.min.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/TechStore/stylesheet.css" asp-append-version="true" />
     <link rel="stylesheet" href="~/css/TechStore/owl.carousel.css" asp-append-version="true" />
     <link rel="stylesheet" href="~/css/TechStore/owl.transitions.css" asp-append-version="true" />
-    <link rel="stylesheet" href="~/css/TechStore/responsive-rtl.css" asp-append-version="true" />
     <link rel="stylesheet" href="~/css/TechStore/responsive.css" asp-append-version="true" />
-    <link rel="stylesheet" href="~/css/TechStore/stylesheet-rtl.css" asp-append-version="true" />
-    <link rel="stylesheet" href="~/css/TechStore/stylesheet-skin2.css" asp-append-version="true" />
-    <link rel="stylesheet" href="~/css/TechStore/stylesheet-skin3.css" asp-append-version="true" />
-    <link rel="stylesheet" href="~/css/TechStore/stylesheet-skin4.css" asp-append-version="true" />
-    <link rel="stylesheet" href="~/css/TechStore/stylesheet.css" asp-append-version="true" />
-
-    
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans" type="text/css">
 </head>
+
 <body>
-    <header>
-        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
-            <div class="container-fluid">
-                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">TechStore</a>
-                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
-                        aria-expanded="false" aria-label="Toggle navigation">
-                    <span class="navbar-toggler-icon"></span>
-                </button>
-                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
-                    <ul class="navbar-nav flex-grow-1">
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
-                        </li>
-                    </ul>
+
+    <div class="wrapper-wide">
+        <div id="header">
+        <!-- Top Bar Start-->
+        <nav id="top" class="htop">
+            <div class="container">
+                <div class="row">
+                    <div id="top-links" class="nav pull-right flip">
+                        <ul>
+                            <li><a href="login.html">Login</a></li>
+                            <li><a href="register.html">Register</a></li>
+                        </ul>
+                    </div>
                 </div>
             </div>
         </nav>
-    </header>
-    <div class="container">
-        <main role="main" class="pb-3">
-            @RenderBody()
-        </main>
+        <!-- Top Bar End-->
+        <!-- Header Start-->
+        <header class="header-row">
+            <div class="container">
+                <div class="table-container">
+                    <!-- Logo Start -->
+                    <div class="col-table-cell col-lg-6 col-md-6 col-sm-12 col-xs-12 inner">
+                        <div id="logo">
+                            <a href="index.html"><img class="img-responsive" src="image/logo2.png" title="TechStore" alt="TechStore" /></a>
+                        </div>
+                    </div>
+                    <!-- Logo End -->
+                    <!-- Mini Cart Start-->
+                    <div class="col-table-cell col-lg-3 col-md-3 col-sm-6 col-xs-12">
+                        <div id="cart">
+                            <button type="button" data-toggle="dropdown" data-loading-text="Loading..." class="heading dropdown-toggle">
+                                <span class="cart-icon pull-left flip"></span>
+                                <span id="cart-total">2 item(s)</span>
+                            </button>
+                            <ul class="dropdown-menu">
+                                <li>
+                                    <table class="table">
+                                        <tbody>
+                                            <tr>
+                                                <td class="text-center">
+                                                    <a href="product.html"><img class="img-thumbnail" title="Xitefun Causal Wear Fancy Shoes" alt="Xitefun Causal Wear Fancy Shoes" src="image/product/sony_vaio_1-50x50.jpg"></a>
+                                                </td>
+                                                <td class="text-left"><a href="product.html">Xitefun Causal Wear Fancy Shoes</a></td>
+                                                <td class="text-right">x 1</td>
+                                                <td class="text-right">$902.00</td>
+                                                <td class="text-center">
+                                                    <button class="btn btn-danger btn-xs remove" title="Remove" onClick="" type="button"><i class="fa fa-times"></i></button>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td class="text-center">
+                                                    <a href="product.html"><img class="img-thumbnail" title="Aspire Ultrabook Laptop" alt="Aspire Ultrabook Laptop" src="image/product/samsung_tab_1-50x50.jpg"></a>
+                                                </td>
+                                                <td class="text-left"><a href="product.html">Aspire Ultrabook Laptop</a></td>
+                                                <td class="text-right">x 1</td>
+                                                <td class="text-right">$230.00</td>
+                                                <td class="text-center">
+                                                    <button class="btn btn-danger btn-xs remove" title="Remove" onClick="" type="button"><i class="fa fa-times"></i></button>
+                                                </td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                </li>
+                                <li>
+                                    <div>
+                                        <table class="table table-bordered">
+                                            <tbody>
+                                                <tr>
+                                                    <td class="text-right"><strong>Sub-Total</strong></td>
+                                                    <td class="text-right">$940.00</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="text-right"><strong>Eco Tax (-2.00)</strong></td>
+                                                    <td class="text-right">$4.00</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="text-right"><strong>VAT (20%)</strong></td>
+                                                    <td class="text-right">$188.00</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="text-right"><strong>Total</strong></td>
+                                                    <td class="text-right">$1,132.00</td>
+                                                </tr>
+                                            </tbody>
+                                        </table>
+                                        <p class="checkout"><a href="cart.html" class="btn btn-primary"><i class="fa fa-shopping-cart"></i> View Cart</a>&nbsp;&nbsp;&nbsp;<a href="checkout.html" class="btn btn-primary"><i class="fa fa-share"></i> Checkout</a></p>
+                                    </div>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                    <!-- Mini Cart End-->
+                    <!-- Search Start-->
+                    <div class="col-table-cell col-lg-3 col-md-3 col-sm-6 col-xs-12 inner">
+                        <div id="search" class="input-group">
+                            <input id="filter_name" type="text" name="search" value="" placeholder="Search" class="form-control input-lg" />
+                            <button type="button" class="button-search"><i class="fa fa-search"></i></button>
+                        </div>
+                    </div>
+                    <!-- Search End-->
+                </div>
+            </div>
+        </header>
+        <!-- Header End-->
     </div>
 
-    <footer class="border-top footer text-muted">
-        <div class="container">
-            &copy; 2023 - TechStore - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+        <main role="main">
+            @RenderBody()
+        </main>
+
+        <!--Footer Start-->
+        <footer id="footer">
+        <div class="fpart-first">
+            <div class="container">
+                <div class="row">
+                    <div class="contact col-lg-4 col-md-4 col-sm-12 col-xs-12">
+                        <h5>Contact Details</h5>
+                        <ul>
+                            <li class="address"><i class="fa fa-map-marker"></i>Casablanca, Emsi Orangers</li>
+                            <li class="mobile"><i class="fa fa-phone"></i>+212 6 12 34 56 78</li>
+                            <li class="email"><i class="fa fa-envelope"></i>Send email via our <a href="contact-us.html">Contact Us</a>
+                        </ul>
+                    </div>
+
+                    <div style="display: flex;justify-content: space-around;">
+                        <div style="width: auto;" class="column col-lg-2 col-md-2 col-sm-3 col-xs-12">
+                            <h5>Information</h5>
+                            <ul>
+                                <li><a href="javascript:void(0)">About Us</a></li>
+                                <li><a href="javascript:void(0)">Delivery Information</a></li>
+                                <li><a href="javascript:void(0)">Privacy Policy</a></li>
+                                <li><a href="javascript:void(0)">Terms &amp; Conditions</a></li>
+                            </ul>
+                        </div>
+                        <div style="width: auto;" class="column col-lg-2 col-md-2 col-sm-3 col-xs-12">
+                            <h5>Customer Service</h5>
+                            <ul>
+                                <li><a href="contact-us.html">Contact Us</a></li>
+                                <li><a href="#">Returns</a></li>
+                                <li><a href="sitemap.html">Site Map</a></li>
+                            </ul>
+                        </div>
+                        <div style="width: auto;" class="column col-lg-2 col-md-2 col-sm-3 col-xs-12">
+                            <h5>Extras</h5>
+                            <ul>
+                                <li><a href="javascript:void(0)">Brands</a></li>
+                                <li><a href="javascript:void(0)">Gift Vouchers</a></li>
+                                <li><a href="javascript:void(0)">Affiliates</a></li>
+                                <li><a href="javascript:void(0)">Specials</a></li>
+                            </ul>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
         </div>
+        <div class="fpart-second">
+            <div class="container">
+                <div id="powered" class="clearfix">
+                </div>
+                <div class="bottom-row">
+                    <div class="powered_text pull-left flip">
+                        <p>TechStore © 2023 By <a href="https://github.com/akram-idrissi" target="_blank">Akram Mi</a></p>
+                    </div>
+                    <div class="payments_types">
+                        <a href="#" target="_blank"> <img data-toggle="tooltip" src="image/payment/payment_paypal.png" alt="paypal" title="PayPal"></a>
+                        <a href="#" target="_blank"> <img data-toggle="tooltip" src="image/payment/payment_american.png" alt="american-express" title="American Express"></a>
+                        <a href="#" target="_blank"> <img data-toggle="tooltip" src="image/payment/payment_2checkout.png" alt="2checkout" title="2checkout"></a>
+                        <a href="#" target="_blank"> <img data-toggle="tooltip" src="image/payment/payment_maestro.png" alt="maestro" title="Maestro"></a>
+                        <a href="#" target="_blank"> <img data-toggle="tooltip" src="image/payment/payment_discover.png" alt="discover" title="Discover"></a>
+                        <a href="#" target="_blank"> <img data-toggle="tooltip" src="image/payment/payment_mastercard.png" alt="mastercard" title="MasterCard"></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="back-top"><a data-toggle="tooltip" title="Back to Top" href="javascript:void(0)" class="backtotop"><i class="fa fa-chevron-up"></i></a></div>
     </footer>
-    <script src="~/lib/jquery/dist/jquery.min.js"></script>
-    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
-    <script src="~/js/site.js" asp-append-version="true"></script>
+        <!--Footer End-->
+    </div>
+   
+    <!-- TechStore javascript -->
+    <script src="~/js/TechStore/jquery-2.1.1.min.js"></script>
+    <script src="~/js/TechStore/bootstrap/js/bootstrap.min.js"></script>
+    <script src="~/js/TechStore/jquery.easing-1.3.min.js"></script>
+    <script src="~/js/TechStore/jquery.dcjqaccordion.min.js"></script>
+    <script src="~/js/TechStore/owl.carousel.min.js"></script>
+    <script src="~/js/TechStore/custom.js"></script>
+
     @await RenderSectionAsync("Scripts", required: false)
+
 </body>
 </html>
