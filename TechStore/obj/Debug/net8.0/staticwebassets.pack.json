@@ -5,12 +5,2076 @@
       "PackagePath": "staticwebassets\\TechStore.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\css\\TechStore\\font-awesome\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\css\\TechStore\\font-awesome\\css\\font-awesome.css"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\css\\TechStore\\font-awesome\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\css\\TechStore\\font-awesome\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\css\\TechStore\\font-awesome\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\css\\TechStore\\font-awesome\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\css\\TechStore\\font-awesome\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\css\\TechStore\\font-awesome\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\css\\TechStore\\font-awesome\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\css\\TechStore\\font-awesome\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\css\\TechStore\\font-awesome\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\css\\TechStore\\font-awesome\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\css\\TechStore\\font-awesome\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\css\\TechStore\\font-awesome\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\css\\TechStore\\font-awesome\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\css\\TechStore\\font-awesome\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\css\\TechStore\\font-awesome\\less\\animated.less",
+      "PackagePath": "staticwebassets\\css\\TechStore\\font-awesome\\less\\animated.less"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\css\\TechStore\\font-awesome\\less\\bordered-pulled.less",
+      "PackagePath": "staticwebassets\\css\\TechStore\\font-awesome\\less\\bordered-pulled.less"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\css\\TechStore\\font-awesome\\less\\core.less",
+      "PackagePath": "staticwebassets\\css\\TechStore\\font-awesome\\less\\core.less"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\css\\TechStore\\font-awesome\\less\\fixed-width.less",
+      "PackagePath": "staticwebassets\\css\\TechStore\\font-awesome\\less\\fixed-width.less"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\css\\TechStore\\font-awesome\\less\\font-awesome.less",
+      "PackagePath": "staticwebassets\\css\\TechStore\\font-awesome\\less\\font-awesome.less"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\css\\TechStore\\font-awesome\\less\\icons.less",
+      "PackagePath": "staticwebassets\\css\\TechStore\\font-awesome\\less\\icons.less"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\css\\TechStore\\font-awesome\\less\\larger.less",
+      "PackagePath": "staticwebassets\\css\\TechStore\\font-awesome\\less\\larger.less"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\css\\TechStore\\font-awesome\\less\\list.less",
+      "PackagePath": "staticwebassets\\css\\TechStore\\font-awesome\\less\\list.less"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\css\\TechStore\\font-awesome\\less\\mixins.less",
+      "PackagePath": "staticwebassets\\css\\TechStore\\font-awesome\\less\\mixins.less"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\css\\TechStore\\font-awesome\\less\\path.less",
+      "PackagePath": "staticwebassets\\css\\TechStore\\font-awesome\\less\\path.less"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\css\\TechStore\\font-awesome\\less\\rotated-flipped.less",
+      "PackagePath": "staticwebassets\\css\\TechStore\\font-awesome\\less\\rotated-flipped.less"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\css\\TechStore\\font-awesome\\less\\stacked.less",
+      "PackagePath": "staticwebassets\\css\\TechStore\\font-awesome\\less\\stacked.less"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\css\\TechStore\\font-awesome\\less\\variables.less",
+      "PackagePath": "staticwebassets\\css\\TechStore\\font-awesome\\less\\variables.less"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\css\\TechStore\\font-awesome\\scss\\_animated.scss",
+      "PackagePath": "staticwebassets\\css\\TechStore\\font-awesome\\scss\\_animated.scss"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\css\\TechStore\\font-awesome\\scss\\_bordered-pulled.scss",
+      "PackagePath": "staticwebassets\\css\\TechStore\\font-awesome\\scss\\_bordered-pulled.scss"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\css\\TechStore\\font-awesome\\scss\\_core.scss",
+      "PackagePath": "staticwebassets\\css\\TechStore\\font-awesome\\scss\\_core.scss"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\css\\TechStore\\font-awesome\\scss\\_fixed-width.scss",
+      "PackagePath": "staticwebassets\\css\\TechStore\\font-awesome\\scss\\_fixed-width.scss"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\css\\TechStore\\font-awesome\\scss\\_icons.scss",
+      "PackagePath": "staticwebassets\\css\\TechStore\\font-awesome\\scss\\_icons.scss"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\css\\TechStore\\font-awesome\\scss\\_larger.scss",
+      "PackagePath": "staticwebassets\\css\\TechStore\\font-awesome\\scss\\_larger.scss"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\css\\TechStore\\font-awesome\\scss\\_list.scss",
+      "PackagePath": "staticwebassets\\css\\TechStore\\font-awesome\\scss\\_list.scss"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\css\\TechStore\\font-awesome\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\css\\TechStore\\font-awesome\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\css\\TechStore\\font-awesome\\scss\\_path.scss",
+      "PackagePath": "staticwebassets\\css\\TechStore\\font-awesome\\scss\\_path.scss"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\css\\TechStore\\font-awesome\\scss\\_rotated-flipped.scss",
+      "PackagePath": "staticwebassets\\css\\TechStore\\font-awesome\\scss\\_rotated-flipped.scss"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\css\\TechStore\\font-awesome\\scss\\_stacked.scss",
+      "PackagePath": "staticwebassets\\css\\TechStore\\font-awesome\\scss\\_stacked.scss"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\css\\TechStore\\font-awesome\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\css\\TechStore\\font-awesome\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\css\\TechStore\\font-awesome\\scss\\font-awesome.scss",
+      "PackagePath": "staticwebassets\\css\\TechStore\\font-awesome\\scss\\font-awesome.scss"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\css\\TechStore\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\css\\TechStore\\owl.carousel.css"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\css\\TechStore\\owl.transitions.css",
+      "PackagePath": "staticwebassets\\css\\TechStore\\owl.transitions.css"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\css\\TechStore\\responsive-rtl.css",
+      "PackagePath": "staticwebassets\\css\\TechStore\\responsive-rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\css\\TechStore\\responsive.css",
+      "PackagePath": "staticwebassets\\css\\TechStore\\responsive.css"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\css\\TechStore\\stylesheet-rtl.css",
+      "PackagePath": "staticwebassets\\css\\TechStore\\stylesheet-rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\css\\TechStore\\stylesheet-skin2.css",
+      "PackagePath": "staticwebassets\\css\\TechStore\\stylesheet-skin2.css"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\css\\TechStore\\stylesheet-skin3.css",
+      "PackagePath": "staticwebassets\\css\\TechStore\\stylesheet-skin3.css"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\css\\TechStore\\stylesheet-skin4.css",
+      "PackagePath": "staticwebassets\\css\\TechStore\\stylesheet-skin4.css"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\css\\TechStore\\stylesheet.css",
+      "PackagePath": "staticwebassets\\css\\TechStore\\stylesheet.css"
+    },
+    {
       "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
       "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\banner\\cms-block.jpg",
+      "PackagePath": "staticwebassets\\image\\banner\\cms-block.jpg"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\banner\\responsive.jpg",
+      "PackagePath": "staticwebassets\\image\\banner\\responsive.jpg"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\banner\\sample-banner-1-400x200.jpg",
+      "PackagePath": "staticwebassets\\image\\banner\\sample-banner-1-400x200.jpg"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\banner\\sample-banner-2-400x200.jpg",
+      "PackagePath": "staticwebassets\\image\\banner\\sample-banner-2-400x200.jpg"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\banner\\sample-banner-3-400x200.jpg",
+      "PackagePath": "staticwebassets\\image\\banner\\sample-banner-3-400x200.jpg"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\banner\\sample-banner-4-400x150.jpg",
+      "PackagePath": "staticwebassets\\image\\banner\\sample-banner-4-400x150.jpg"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\banner\\sample-banner-5-400x150.jpg",
+      "PackagePath": "staticwebassets\\image\\banner\\sample-banner-5-400x150.jpg"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\banner\\small-banner-265x350.jpg",
+      "PackagePath": "staticwebassets\\image\\banner\\small-banner-265x350.jpg"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\banner\\small-banner1-265x350.jpg",
+      "PackagePath": "staticwebassets\\image\\banner\\small-banner1-265x350.jpg"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\bullet-dark-rtl.png",
+      "PackagePath": "staticwebassets\\image\\bullet-dark-rtl.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\bullet-dark.png",
+      "PackagePath": "staticwebassets\\image\\bullet-dark.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\favicon.png",
+      "PackagePath": "staticwebassets\\image\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\ad.png",
+      "PackagePath": "staticwebassets\\image\\flags\\ad.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\ae.png",
+      "PackagePath": "staticwebassets\\image\\flags\\ae.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\af.png",
+      "PackagePath": "staticwebassets\\image\\flags\\af.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\ag.png",
+      "PackagePath": "staticwebassets\\image\\flags\\ag.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\ai.png",
+      "PackagePath": "staticwebassets\\image\\flags\\ai.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\al.png",
+      "PackagePath": "staticwebassets\\image\\flags\\al.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\am.png",
+      "PackagePath": "staticwebassets\\image\\flags\\am.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\an.png",
+      "PackagePath": "staticwebassets\\image\\flags\\an.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\ao.png",
+      "PackagePath": "staticwebassets\\image\\flags\\ao.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\ar.png",
+      "PackagePath": "staticwebassets\\image\\flags\\ar.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\as.png",
+      "PackagePath": "staticwebassets\\image\\flags\\as.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\at.png",
+      "PackagePath": "staticwebassets\\image\\flags\\at.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\au.png",
+      "PackagePath": "staticwebassets\\image\\flags\\au.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\aw.png",
+      "PackagePath": "staticwebassets\\image\\flags\\aw.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\ax.png",
+      "PackagePath": "staticwebassets\\image\\flags\\ax.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\az.png",
+      "PackagePath": "staticwebassets\\image\\flags\\az.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\ba.png",
+      "PackagePath": "staticwebassets\\image\\flags\\ba.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\bb.png",
+      "PackagePath": "staticwebassets\\image\\flags\\bb.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\bd.png",
+      "PackagePath": "staticwebassets\\image\\flags\\bd.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\be.png",
+      "PackagePath": "staticwebassets\\image\\flags\\be.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\bf.png",
+      "PackagePath": "staticwebassets\\image\\flags\\bf.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\bg.png",
+      "PackagePath": "staticwebassets\\image\\flags\\bg.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\bh.png",
+      "PackagePath": "staticwebassets\\image\\flags\\bh.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\bi.png",
+      "PackagePath": "staticwebassets\\image\\flags\\bi.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\bj.png",
+      "PackagePath": "staticwebassets\\image\\flags\\bj.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\bm.png",
+      "PackagePath": "staticwebassets\\image\\flags\\bm.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\bn.png",
+      "PackagePath": "staticwebassets\\image\\flags\\bn.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\bo.png",
+      "PackagePath": "staticwebassets\\image\\flags\\bo.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\br.png",
+      "PackagePath": "staticwebassets\\image\\flags\\br.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\bs.png",
+      "PackagePath": "staticwebassets\\image\\flags\\bs.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\bt.png",
+      "PackagePath": "staticwebassets\\image\\flags\\bt.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\bv.png",
+      "PackagePath": "staticwebassets\\image\\flags\\bv.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\bw.png",
+      "PackagePath": "staticwebassets\\image\\flags\\bw.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\by.png",
+      "PackagePath": "staticwebassets\\image\\flags\\by.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\bz.png",
+      "PackagePath": "staticwebassets\\image\\flags\\bz.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\ca.png",
+      "PackagePath": "staticwebassets\\image\\flags\\ca.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\cc.png",
+      "PackagePath": "staticwebassets\\image\\flags\\cc.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\cd.png",
+      "PackagePath": "staticwebassets\\image\\flags\\cd.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\cf.png",
+      "PackagePath": "staticwebassets\\image\\flags\\cf.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\cg.png",
+      "PackagePath": "staticwebassets\\image\\flags\\cg.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\ch.png",
+      "PackagePath": "staticwebassets\\image\\flags\\ch.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\ci.png",
+      "PackagePath": "staticwebassets\\image\\flags\\ci.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\ck.png",
+      "PackagePath": "staticwebassets\\image\\flags\\ck.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\cl.png",
+      "PackagePath": "staticwebassets\\image\\flags\\cl.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\cm.png",
+      "PackagePath": "staticwebassets\\image\\flags\\cm.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\cn.png",
+      "PackagePath": "staticwebassets\\image\\flags\\cn.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\co.png",
+      "PackagePath": "staticwebassets\\image\\flags\\co.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\cr.png",
+      "PackagePath": "staticwebassets\\image\\flags\\cr.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\cs.png",
+      "PackagePath": "staticwebassets\\image\\flags\\cs.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\cu.png",
+      "PackagePath": "staticwebassets\\image\\flags\\cu.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\cv.png",
+      "PackagePath": "staticwebassets\\image\\flags\\cv.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\cx.png",
+      "PackagePath": "staticwebassets\\image\\flags\\cx.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\cy.png",
+      "PackagePath": "staticwebassets\\image\\flags\\cy.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\cz.png",
+      "PackagePath": "staticwebassets\\image\\flags\\cz.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\de.png",
+      "PackagePath": "staticwebassets\\image\\flags\\de.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\dj.png",
+      "PackagePath": "staticwebassets\\image\\flags\\dj.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\dk.png",
+      "PackagePath": "staticwebassets\\image\\flags\\dk.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\dm.png",
+      "PackagePath": "staticwebassets\\image\\flags\\dm.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\do.png",
+      "PackagePath": "staticwebassets\\image\\flags\\do.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\dz.png",
+      "PackagePath": "staticwebassets\\image\\flags\\dz.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\ec.png",
+      "PackagePath": "staticwebassets\\image\\flags\\ec.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\ee.png",
+      "PackagePath": "staticwebassets\\image\\flags\\ee.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\eg.png",
+      "PackagePath": "staticwebassets\\image\\flags\\eg.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\eh.png",
+      "PackagePath": "staticwebassets\\image\\flags\\eh.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\england.png",
+      "PackagePath": "staticwebassets\\image\\flags\\england.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\er.png",
+      "PackagePath": "staticwebassets\\image\\flags\\er.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\es.png",
+      "PackagePath": "staticwebassets\\image\\flags\\es.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\et.png",
+      "PackagePath": "staticwebassets\\image\\flags\\et.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\fam.png",
+      "PackagePath": "staticwebassets\\image\\flags\\fam.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\fi.png",
+      "PackagePath": "staticwebassets\\image\\flags\\fi.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\fj.png",
+      "PackagePath": "staticwebassets\\image\\flags\\fj.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\fk.png",
+      "PackagePath": "staticwebassets\\image\\flags\\fk.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\fm.png",
+      "PackagePath": "staticwebassets\\image\\flags\\fm.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\fo.png",
+      "PackagePath": "staticwebassets\\image\\flags\\fo.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\fr.png",
+      "PackagePath": "staticwebassets\\image\\flags\\fr.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\ga.png",
+      "PackagePath": "staticwebassets\\image\\flags\\ga.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\gb.png",
+      "PackagePath": "staticwebassets\\image\\flags\\gb.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\gd.png",
+      "PackagePath": "staticwebassets\\image\\flags\\gd.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\ge.png",
+      "PackagePath": "staticwebassets\\image\\flags\\ge.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\gh.png",
+      "PackagePath": "staticwebassets\\image\\flags\\gh.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\gi.png",
+      "PackagePath": "staticwebassets\\image\\flags\\gi.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\gl.png",
+      "PackagePath": "staticwebassets\\image\\flags\\gl.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\gm.png",
+      "PackagePath": "staticwebassets\\image\\flags\\gm.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\gn.png",
+      "PackagePath": "staticwebassets\\image\\flags\\gn.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\gp.png",
+      "PackagePath": "staticwebassets\\image\\flags\\gp.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\gq.png",
+      "PackagePath": "staticwebassets\\image\\flags\\gq.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\gr.png",
+      "PackagePath": "staticwebassets\\image\\flags\\gr.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\gs.png",
+      "PackagePath": "staticwebassets\\image\\flags\\gs.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\gt.png",
+      "PackagePath": "staticwebassets\\image\\flags\\gt.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\gu.png",
+      "PackagePath": "staticwebassets\\image\\flags\\gu.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\gw.png",
+      "PackagePath": "staticwebassets\\image\\flags\\gw.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\gy.png",
+      "PackagePath": "staticwebassets\\image\\flags\\gy.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\hk.png",
+      "PackagePath": "staticwebassets\\image\\flags\\hk.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\hn.png",
+      "PackagePath": "staticwebassets\\image\\flags\\hn.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\hr.png",
+      "PackagePath": "staticwebassets\\image\\flags\\hr.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\ht.png",
+      "PackagePath": "staticwebassets\\image\\flags\\ht.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\hu.png",
+      "PackagePath": "staticwebassets\\image\\flags\\hu.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\id.png",
+      "PackagePath": "staticwebassets\\image\\flags\\id.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\ie.png",
+      "PackagePath": "staticwebassets\\image\\flags\\ie.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\il.png",
+      "PackagePath": "staticwebassets\\image\\flags\\il.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\in.png",
+      "PackagePath": "staticwebassets\\image\\flags\\in.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\io.png",
+      "PackagePath": "staticwebassets\\image\\flags\\io.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\iq.png",
+      "PackagePath": "staticwebassets\\image\\flags\\iq.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\ir.png",
+      "PackagePath": "staticwebassets\\image\\flags\\ir.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\is.png",
+      "PackagePath": "staticwebassets\\image\\flags\\is.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\it.png",
+      "PackagePath": "staticwebassets\\image\\flags\\it.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\jm.png",
+      "PackagePath": "staticwebassets\\image\\flags\\jm.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\jo.png",
+      "PackagePath": "staticwebassets\\image\\flags\\jo.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\jp.png",
+      "PackagePath": "staticwebassets\\image\\flags\\jp.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\ke.png",
+      "PackagePath": "staticwebassets\\image\\flags\\ke.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\kg.png",
+      "PackagePath": "staticwebassets\\image\\flags\\kg.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\kh.png",
+      "PackagePath": "staticwebassets\\image\\flags\\kh.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\ki.png",
+      "PackagePath": "staticwebassets\\image\\flags\\ki.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\km.png",
+      "PackagePath": "staticwebassets\\image\\flags\\km.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\kn.png",
+      "PackagePath": "staticwebassets\\image\\flags\\kn.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\kp.png",
+      "PackagePath": "staticwebassets\\image\\flags\\kp.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\kr.png",
+      "PackagePath": "staticwebassets\\image\\flags\\kr.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\kw.png",
+      "PackagePath": "staticwebassets\\image\\flags\\kw.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\ky.png",
+      "PackagePath": "staticwebassets\\image\\flags\\ky.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\kz.png",
+      "PackagePath": "staticwebassets\\image\\flags\\kz.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\la.png",
+      "PackagePath": "staticwebassets\\image\\flags\\la.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\lb.png",
+      "PackagePath": "staticwebassets\\image\\flags\\lb.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\lc.png",
+      "PackagePath": "staticwebassets\\image\\flags\\lc.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\li.png",
+      "PackagePath": "staticwebassets\\image\\flags\\li.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\lk.png",
+      "PackagePath": "staticwebassets\\image\\flags\\lk.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\lr.png",
+      "PackagePath": "staticwebassets\\image\\flags\\lr.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\ls.png",
+      "PackagePath": "staticwebassets\\image\\flags\\ls.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\lt.png",
+      "PackagePath": "staticwebassets\\image\\flags\\lt.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\lu.png",
+      "PackagePath": "staticwebassets\\image\\flags\\lu.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\lv.png",
+      "PackagePath": "staticwebassets\\image\\flags\\lv.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\ly.png",
+      "PackagePath": "staticwebassets\\image\\flags\\ly.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\ma.png",
+      "PackagePath": "staticwebassets\\image\\flags\\ma.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\mc.png",
+      "PackagePath": "staticwebassets\\image\\flags\\mc.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\md.png",
+      "PackagePath": "staticwebassets\\image\\flags\\md.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\mg.png",
+      "PackagePath": "staticwebassets\\image\\flags\\mg.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\mh.png",
+      "PackagePath": "staticwebassets\\image\\flags\\mh.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\mk.png",
+      "PackagePath": "staticwebassets\\image\\flags\\mk.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\ml.png",
+      "PackagePath": "staticwebassets\\image\\flags\\ml.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\mm.png",
+      "PackagePath": "staticwebassets\\image\\flags\\mm.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\mn.png",
+      "PackagePath": "staticwebassets\\image\\flags\\mn.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\mo.png",
+      "PackagePath": "staticwebassets\\image\\flags\\mo.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\mp.png",
+      "PackagePath": "staticwebassets\\image\\flags\\mp.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\mq.png",
+      "PackagePath": "staticwebassets\\image\\flags\\mq.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\mr.png",
+      "PackagePath": "staticwebassets\\image\\flags\\mr.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\ms.png",
+      "PackagePath": "staticwebassets\\image\\flags\\ms.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\mt.png",
+      "PackagePath": "staticwebassets\\image\\flags\\mt.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\mu.png",
+      "PackagePath": "staticwebassets\\image\\flags\\mu.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\mv.png",
+      "PackagePath": "staticwebassets\\image\\flags\\mv.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\mw.png",
+      "PackagePath": "staticwebassets\\image\\flags\\mw.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\mx.png",
+      "PackagePath": "staticwebassets\\image\\flags\\mx.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\my.png",
+      "PackagePath": "staticwebassets\\image\\flags\\my.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\mz.png",
+      "PackagePath": "staticwebassets\\image\\flags\\mz.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\na.png",
+      "PackagePath": "staticwebassets\\image\\flags\\na.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\nc.png",
+      "PackagePath": "staticwebassets\\image\\flags\\nc.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\ne.png",
+      "PackagePath": "staticwebassets\\image\\flags\\ne.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\nf.png",
+      "PackagePath": "staticwebassets\\image\\flags\\nf.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\ng.png",
+      "PackagePath": "staticwebassets\\image\\flags\\ng.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\ni.png",
+      "PackagePath": "staticwebassets\\image\\flags\\ni.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\nl.png",
+      "PackagePath": "staticwebassets\\image\\flags\\nl.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\no.png",
+      "PackagePath": "staticwebassets\\image\\flags\\no.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\np.png",
+      "PackagePath": "staticwebassets\\image\\flags\\np.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\nr.png",
+      "PackagePath": "staticwebassets\\image\\flags\\nr.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\nu.png",
+      "PackagePath": "staticwebassets\\image\\flags\\nu.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\nz.png",
+      "PackagePath": "staticwebassets\\image\\flags\\nz.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\om.png",
+      "PackagePath": "staticwebassets\\image\\flags\\om.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\pa.png",
+      "PackagePath": "staticwebassets\\image\\flags\\pa.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\pe.png",
+      "PackagePath": "staticwebassets\\image\\flags\\pe.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\pf.png",
+      "PackagePath": "staticwebassets\\image\\flags\\pf.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\pg.png",
+      "PackagePath": "staticwebassets\\image\\flags\\pg.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\ph.png",
+      "PackagePath": "staticwebassets\\image\\flags\\ph.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\pk.png",
+      "PackagePath": "staticwebassets\\image\\flags\\pk.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\pl.png",
+      "PackagePath": "staticwebassets\\image\\flags\\pl.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\pm.png",
+      "PackagePath": "staticwebassets\\image\\flags\\pm.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\pn.png",
+      "PackagePath": "staticwebassets\\image\\flags\\pn.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\pr.png",
+      "PackagePath": "staticwebassets\\image\\flags\\pr.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\ps.png",
+      "PackagePath": "staticwebassets\\image\\flags\\ps.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\pt.png",
+      "PackagePath": "staticwebassets\\image\\flags\\pt.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\pw.png",
+      "PackagePath": "staticwebassets\\image\\flags\\pw.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\py.png",
+      "PackagePath": "staticwebassets\\image\\flags\\py.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\qa.png",
+      "PackagePath": "staticwebassets\\image\\flags\\qa.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\ro.png",
+      "PackagePath": "staticwebassets\\image\\flags\\ro.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\ru.png",
+      "PackagePath": "staticwebassets\\image\\flags\\ru.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\rw.png",
+      "PackagePath": "staticwebassets\\image\\flags\\rw.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\sa.png",
+      "PackagePath": "staticwebassets\\image\\flags\\sa.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\sb.png",
+      "PackagePath": "staticwebassets\\image\\flags\\sb.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\sc.png",
+      "PackagePath": "staticwebassets\\image\\flags\\sc.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\scotland.png",
+      "PackagePath": "staticwebassets\\image\\flags\\scotland.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\sd.png",
+      "PackagePath": "staticwebassets\\image\\flags\\sd.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\se.png",
+      "PackagePath": "staticwebassets\\image\\flags\\se.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\sg.png",
+      "PackagePath": "staticwebassets\\image\\flags\\sg.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\sh.png",
+      "PackagePath": "staticwebassets\\image\\flags\\sh.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\si.png",
+      "PackagePath": "staticwebassets\\image\\flags\\si.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\sk.png",
+      "PackagePath": "staticwebassets\\image\\flags\\sk.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\sl.png",
+      "PackagePath": "staticwebassets\\image\\flags\\sl.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\sm.png",
+      "PackagePath": "staticwebassets\\image\\flags\\sm.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\sn.png",
+      "PackagePath": "staticwebassets\\image\\flags\\sn.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\so.png",
+      "PackagePath": "staticwebassets\\image\\flags\\so.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\sr.png",
+      "PackagePath": "staticwebassets\\image\\flags\\sr.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\st.png",
+      "PackagePath": "staticwebassets\\image\\flags\\st.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\sv.png",
+      "PackagePath": "staticwebassets\\image\\flags\\sv.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\sy.png",
+      "PackagePath": "staticwebassets\\image\\flags\\sy.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\sz.png",
+      "PackagePath": "staticwebassets\\image\\flags\\sz.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\tc.png",
+      "PackagePath": "staticwebassets\\image\\flags\\tc.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\td.png",
+      "PackagePath": "staticwebassets\\image\\flags\\td.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\tf.png",
+      "PackagePath": "staticwebassets\\image\\flags\\tf.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\tg.png",
+      "PackagePath": "staticwebassets\\image\\flags\\tg.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\th.png",
+      "PackagePath": "staticwebassets\\image\\flags\\th.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\tj.png",
+      "PackagePath": "staticwebassets\\image\\flags\\tj.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\tk.png",
+      "PackagePath": "staticwebassets\\image\\flags\\tk.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\tl.png",
+      "PackagePath": "staticwebassets\\image\\flags\\tl.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\tm.png",
+      "PackagePath": "staticwebassets\\image\\flags\\tm.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\tn.png",
+      "PackagePath": "staticwebassets\\image\\flags\\tn.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\to.png",
+      "PackagePath": "staticwebassets\\image\\flags\\to.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\tr.png",
+      "PackagePath": "staticwebassets\\image\\flags\\tr.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\tt.png",
+      "PackagePath": "staticwebassets\\image\\flags\\tt.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\tv.png",
+      "PackagePath": "staticwebassets\\image\\flags\\tv.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\tw.png",
+      "PackagePath": "staticwebassets\\image\\flags\\tw.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\tz.png",
+      "PackagePath": "staticwebassets\\image\\flags\\tz.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\ua.png",
+      "PackagePath": "staticwebassets\\image\\flags\\ua.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\ug.png",
+      "PackagePath": "staticwebassets\\image\\flags\\ug.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\um.png",
+      "PackagePath": "staticwebassets\\image\\flags\\um.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\us.png",
+      "PackagePath": "staticwebassets\\image\\flags\\us.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\uy.png",
+      "PackagePath": "staticwebassets\\image\\flags\\uy.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\uz.png",
+      "PackagePath": "staticwebassets\\image\\flags\\uz.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\va.png",
+      "PackagePath": "staticwebassets\\image\\flags\\va.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\vc.png",
+      "PackagePath": "staticwebassets\\image\\flags\\vc.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\ve.png",
+      "PackagePath": "staticwebassets\\image\\flags\\ve.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\vg.png",
+      "PackagePath": "staticwebassets\\image\\flags\\vg.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\vi.png",
+      "PackagePath": "staticwebassets\\image\\flags\\vi.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\vn.png",
+      "PackagePath": "staticwebassets\\image\\flags\\vn.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\vu.png",
+      "PackagePath": "staticwebassets\\image\\flags\\vu.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\wales.png",
+      "PackagePath": "staticwebassets\\image\\flags\\wales.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\wf.png",
+      "PackagePath": "staticwebassets\\image\\flags\\wf.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\ws.png",
+      "PackagePath": "staticwebassets\\image\\flags\\ws.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\ye.png",
+      "PackagePath": "staticwebassets\\image\\flags\\ye.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\yt.png",
+      "PackagePath": "staticwebassets\\image\\flags\\yt.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\za.png",
+      "PackagePath": "staticwebassets\\image\\flags\\za.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\zm.png",
+      "PackagePath": "staticwebassets\\image\\flags\\zm.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\flags\\zw.png",
+      "PackagePath": "staticwebassets\\image\\flags\\zw.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\grabbing.png",
+      "PackagePath": "staticwebassets\\image\\grabbing.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\logo.png",
+      "PackagePath": "staticwebassets\\image\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\logo2.png",
+      "PackagePath": "staticwebassets\\image\\logo2.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\no_image.jpg",
+      "PackagePath": "staticwebassets\\image\\no_image.jpg"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\patterns\\1.png",
+      "PackagePath": "staticwebassets\\image\\patterns\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\patterns\\10.png",
+      "PackagePath": "staticwebassets\\image\\patterns\\10.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\patterns\\11.png",
+      "PackagePath": "staticwebassets\\image\\patterns\\11.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\patterns\\12.png",
+      "PackagePath": "staticwebassets\\image\\patterns\\12.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\patterns\\13.png",
+      "PackagePath": "staticwebassets\\image\\patterns\\13.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\patterns\\14.png",
+      "PackagePath": "staticwebassets\\image\\patterns\\14.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\patterns\\15.png",
+      "PackagePath": "staticwebassets\\image\\patterns\\15.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\patterns\\16.png",
+      "PackagePath": "staticwebassets\\image\\patterns\\16.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\patterns\\17.png",
+      "PackagePath": "staticwebassets\\image\\patterns\\17.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\patterns\\18.png",
+      "PackagePath": "staticwebassets\\image\\patterns\\18.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\patterns\\19.png",
+      "PackagePath": "staticwebassets\\image\\patterns\\19.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\patterns\\2.png",
+      "PackagePath": "staticwebassets\\image\\patterns\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\patterns\\20.png",
+      "PackagePath": "staticwebassets\\image\\patterns\\20.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\patterns\\21.png",
+      "PackagePath": "staticwebassets\\image\\patterns\\21.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\patterns\\22.png",
+      "PackagePath": "staticwebassets\\image\\patterns\\22.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\patterns\\23.png",
+      "PackagePath": "staticwebassets\\image\\patterns\\23.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\patterns\\24.png",
+      "PackagePath": "staticwebassets\\image\\patterns\\24.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\patterns\\25.png",
+      "PackagePath": "staticwebassets\\image\\patterns\\25.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\patterns\\26.png",
+      "PackagePath": "staticwebassets\\image\\patterns\\26.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\patterns\\27.png",
+      "PackagePath": "staticwebassets\\image\\patterns\\27.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\patterns\\28.png",
+      "PackagePath": "staticwebassets\\image\\patterns\\28.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\patterns\\29.png",
+      "PackagePath": "staticwebassets\\image\\patterns\\29.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\patterns\\3.png",
+      "PackagePath": "staticwebassets\\image\\patterns\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\patterns\\30.png",
+      "PackagePath": "staticwebassets\\image\\patterns\\30.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\patterns\\31.png",
+      "PackagePath": "staticwebassets\\image\\patterns\\31.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\patterns\\32.png",
+      "PackagePath": "staticwebassets\\image\\patterns\\32.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\patterns\\33.png",
+      "PackagePath": "staticwebassets\\image\\patterns\\33.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\patterns\\34.png",
+      "PackagePath": "staticwebassets\\image\\patterns\\34.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\patterns\\35.png",
+      "PackagePath": "staticwebassets\\image\\patterns\\35.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\patterns\\36.png",
+      "PackagePath": "staticwebassets\\image\\patterns\\36.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\patterns\\37.png",
+      "PackagePath": "staticwebassets\\image\\patterns\\37.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\patterns\\38.png",
+      "PackagePath": "staticwebassets\\image\\patterns\\38.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\patterns\\39.png",
+      "PackagePath": "staticwebassets\\image\\patterns\\39.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\patterns\\4.png",
+      "PackagePath": "staticwebassets\\image\\patterns\\4.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\patterns\\40.png",
+      "PackagePath": "staticwebassets\\image\\patterns\\40.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\patterns\\41.png",
+      "PackagePath": "staticwebassets\\image\\patterns\\41.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\patterns\\42.png",
+      "PackagePath": "staticwebassets\\image\\patterns\\42.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\patterns\\43.png",
+      "PackagePath": "staticwebassets\\image\\patterns\\43.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\patterns\\44.png",
+      "PackagePath": "staticwebassets\\image\\patterns\\44.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\patterns\\45.png",
+      "PackagePath": "staticwebassets\\image\\patterns\\45.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\patterns\\46.png",
+      "PackagePath": "staticwebassets\\image\\patterns\\46.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\patterns\\47.png",
+      "PackagePath": "staticwebassets\\image\\patterns\\47.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\patterns\\48.png",
+      "PackagePath": "staticwebassets\\image\\patterns\\48.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\patterns\\49.png",
+      "PackagePath": "staticwebassets\\image\\patterns\\49.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\patterns\\5.png",
+      "PackagePath": "staticwebassets\\image\\patterns\\5.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\patterns\\50.png",
+      "PackagePath": "staticwebassets\\image\\patterns\\50.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\patterns\\51.png",
+      "PackagePath": "staticwebassets\\image\\patterns\\51.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\patterns\\52.png",
+      "PackagePath": "staticwebassets\\image\\patterns\\52.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\patterns\\53.png",
+      "PackagePath": "staticwebassets\\image\\patterns\\53.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\patterns\\6.png",
+      "PackagePath": "staticwebassets\\image\\patterns\\6.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\patterns\\7.png",
+      "PackagePath": "staticwebassets\\image\\patterns\\7.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\patterns\\8.png",
+      "PackagePath": "staticwebassets\\image\\patterns\\8.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\patterns\\9.png",
+      "PackagePath": "staticwebassets\\image\\patterns\\9.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\payment\\payment_2checkout.png",
+      "PackagePath": "staticwebassets\\image\\payment\\payment_2checkout.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\payment\\payment_american.png",
+      "PackagePath": "staticwebassets\\image\\payment\\payment_american.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\payment\\payment_cirrus.png",
+      "PackagePath": "staticwebassets\\image\\payment\\payment_cirrus.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\payment\\payment_delta.png",
+      "PackagePath": "staticwebassets\\image\\payment\\payment_delta.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\payment\\payment_direct.png",
+      "PackagePath": "staticwebassets\\image\\payment\\payment_direct.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\payment\\payment_discover.png",
+      "PackagePath": "staticwebassets\\image\\payment\\payment_discover.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\payment\\payment_ebay.png",
+      "PackagePath": "staticwebassets\\image\\payment\\payment_ebay.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\payment\\payment_google.png",
+      "PackagePath": "staticwebassets\\image\\payment\\payment_google.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\payment\\payment_maestro.png",
+      "PackagePath": "staticwebassets\\image\\payment\\payment_maestro.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\payment\\payment_mastercard.png",
+      "PackagePath": "staticwebassets\\image\\payment\\payment_mastercard.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\payment\\payment_moneybookers.png",
+      "PackagePath": "staticwebassets\\image\\payment\\payment_moneybookers.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\payment\\payment_paypal.png",
+      "PackagePath": "staticwebassets\\image\\payment\\payment_paypal.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\payment\\payment_sagepay.png",
+      "PackagePath": "staticwebassets\\image\\payment\\payment_sagepay.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\payment\\payment_solo.png",
+      "PackagePath": "staticwebassets\\image\\payment\\payment_solo.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\payment\\payment_switch.png",
+      "PackagePath": "staticwebassets\\image\\payment\\payment_switch.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\payment\\payment_visa.png",
+      "PackagePath": "staticwebassets\\image\\payment\\payment_visa.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\payment\\payment_western_union.png",
+      "PackagePath": "staticwebassets\\image\\payment\\payment_western_union.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\plus.png",
+      "PackagePath": "staticwebassets\\image\\plus.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\product\\FinePix-Long-Zoom-Camera-200x200.jpg",
+      "PackagePath": "staticwebassets\\image\\product\\FinePix-Long-Zoom-Camera-200x200.jpg"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\product\\FinePix-Long-Zoom-Camera-50x50.jpg",
+      "PackagePath": "staticwebassets\\image\\product\\FinePix-Long-Zoom-Camera-50x50.jpg"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\product\\apple_cinema_30-200x200.jpg",
+      "PackagePath": "staticwebassets\\image\\product\\apple_cinema_30-200x200.jpg"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\product\\apple_cinema_30-50x50.jpg",
+      "PackagePath": "staticwebassets\\image\\product\\apple_cinema_30-50x50.jpg"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\product\\apple_logo-100x100.jpg",
+      "PackagePath": "staticwebassets\\image\\product\\apple_logo-100x100.jpg"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\product\\apple_logo-60x60.jpg",
+      "PackagePath": "staticwebassets\\image\\product\\apple_logo-60x60.jpg"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\product\\canon_eos_5d_1-200x200.jpg",
+      "PackagePath": "staticwebassets\\image\\product\\canon_eos_5d_1-200x200.jpg"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\product\\canon_logo-100x100.jpg",
+      "PackagePath": "staticwebassets\\image\\product\\canon_logo-100x100.jpg"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\product\\canon_logo-60x60.jpg",
+      "PackagePath": "staticwebassets\\image\\product\\canon_logo-60x60.jpg"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\product\\hp_2-200x200.jpg",
+      "PackagePath": "staticwebassets\\image\\product\\hp_2-200x200.jpg"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\product\\hp_3-200x200.jpg",
+      "PackagePath": "staticwebassets\\image\\product\\hp_3-200x200.jpg"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\product\\hp_logo-60x60.jpg",
+      "PackagePath": "staticwebassets\\image\\product\\hp_logo-60x60.jpg"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\product\\htc_logo-60x60.jpg",
+      "PackagePath": "staticwebassets\\image\\product\\htc_logo-60x60.jpg"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\product\\iphone_1-200x200.jpg",
+      "PackagePath": "staticwebassets\\image\\product\\iphone_1-200x200.jpg"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\product\\iphone_1-50x50.jpg",
+      "PackagePath": "staticwebassets\\image\\product\\iphone_1-50x50.jpg"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\product\\iphone_6-200x200.jpg",
+      "PackagePath": "staticwebassets\\image\\product\\iphone_6-200x200.jpg"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\product\\iphone_6-50x50.jpg",
+      "PackagePath": "staticwebassets\\image\\product\\iphone_6-50x50.jpg"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\product\\ipod_classic_1-200x200.jpg",
+      "PackagePath": "staticwebassets\\image\\product\\ipod_classic_1-200x200.jpg"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\product\\ipod_nano_1-200x200.jpg",
+      "PackagePath": "staticwebassets\\image\\product\\ipod_nano_1-200x200.jpg"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\product\\ipod_shuffle_1-200x200.jpg",
+      "PackagePath": "staticwebassets\\image\\product\\ipod_shuffle_1-200x200.jpg"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\product\\ipod_touch_1-200x200.jpg",
+      "PackagePath": "staticwebassets\\image\\product\\ipod_touch_1-200x200.jpg"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\product\\macbook_1-200x200.jpg",
+      "PackagePath": "staticwebassets\\image\\product\\macbook_1-200x200.jpg"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\product\\macbook_1-50x50.jpg",
+      "PackagePath": "staticwebassets\\image\\product\\macbook_1-50x50.jpg"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\product\\macbook_2-200x200.jpg",
+      "PackagePath": "staticwebassets\\image\\product\\macbook_2-200x200.jpg"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\product\\macbook_2-50x50.jpg",
+      "PackagePath": "staticwebassets\\image\\product\\macbook_2-50x50.jpg"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\product\\macbook_3-200x200.jpg",
+      "PackagePath": "staticwebassets\\image\\product\\macbook_3-200x200.jpg"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\product\\macbook_3-50x50.jpg",
+      "PackagePath": "staticwebassets\\image\\product\\macbook_3-50x50.jpg"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\product\\macbook_4-200x200.jpg",
+      "PackagePath": "staticwebassets\\image\\product\\macbook_4-200x200.jpg"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\product\\macbook_4-50x50.jpg",
+      "PackagePath": "staticwebassets\\image\\product\\macbook_4-50x50.jpg"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\product\\macbook_5-200x200.jpg",
+      "PackagePath": "staticwebassets\\image\\product\\macbook_5-200x200.jpg"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\product\\macbook_5-50x50.jpg",
+      "PackagePath": "staticwebassets\\image\\product\\macbook_5-50x50.jpg"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\product\\macbook_air_1-200x200.jpg",
+      "PackagePath": "staticwebassets\\image\\product\\macbook_air_1-200x200.jpg"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\product\\macbook_air_1-350x350.jpg",
+      "PackagePath": "staticwebassets\\image\\product\\macbook_air_1-350x350.jpg"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\product\\macbook_air_1-500x500.jpg",
+      "PackagePath": "staticwebassets\\image\\product\\macbook_air_1-500x500.jpg"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\product\\macbook_air_1-50x50.jpg",
+      "PackagePath": "staticwebassets\\image\\product\\macbook_air_1-50x50.jpg"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\product\\macbook_air_1-66x66.jpg",
+      "PackagePath": "staticwebassets\\image\\product\\macbook_air_1-66x66.jpg"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\product\\macbook_air_1-90x90.jpg",
+      "PackagePath": "staticwebassets\\image\\product\\macbook_air_1-90x90.jpg"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\product\\macbook_air_2-350x350.jpg",
+      "PackagePath": "staticwebassets\\image\\product\\macbook_air_2-350x350.jpg"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\product\\macbook_air_2-500x500.jpg",
+      "PackagePath": "staticwebassets\\image\\product\\macbook_air_2-500x500.jpg"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\product\\macbook_air_2-66x66.jpg",
+      "PackagePath": "staticwebassets\\image\\product\\macbook_air_2-66x66.jpg"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\product\\macbook_air_3-350x350.jpg",
+      "PackagePath": "staticwebassets\\image\\product\\macbook_air_3-350x350.jpg"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\product\\macbook_air_3-500x500.jpg",
+      "PackagePath": "staticwebassets\\image\\product\\macbook_air_3-500x500.jpg"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\product\\macbook_air_3-66x66.jpg",
+      "PackagePath": "staticwebassets\\image\\product\\macbook_air_3-66x66.jpg"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\product\\macbook_air_4-350x350.jpg",
+      "PackagePath": "staticwebassets\\image\\product\\macbook_air_4-350x350.jpg"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\product\\macbook_air_4-500x500.jpg",
+      "PackagePath": "staticwebassets\\image\\product\\macbook_air_4-500x500.jpg"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\product\\macbook_air_4-66x66.jpg",
+      "PackagePath": "staticwebassets\\image\\product\\macbook_air_4-66x66.jpg"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\product\\macbook_pro_1-200x200.jpg",
+      "PackagePath": "staticwebassets\\image\\product\\macbook_pro_1-200x200.jpg"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\product\\macbook_pro_1-50x50.jpg",
+      "PackagePath": "staticwebassets\\image\\product\\macbook_pro_1-50x50.jpg"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\product\\macbook_pro_1-90x90.jpg",
+      "PackagePath": "staticwebassets\\image\\product\\macbook_pro_1-90x90.jpg"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\product\\nikon_d300_1-200x200.jpg",
+      "PackagePath": "staticwebassets\\image\\product\\nikon_d300_1-200x200.jpg"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\product\\nikon_d300_1-50x50.jpg",
+      "PackagePath": "staticwebassets\\image\\product\\nikon_d300_1-50x50.jpg"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\product\\nikon_d300_4-200x200.jpg",
+      "PackagePath": "staticwebassets\\image\\product\\nikon_d300_4-200x200.jpg"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\product\\nikon_d300_4-50x50.jpg",
+      "PackagePath": "staticwebassets\\image\\product\\nikon_d300_4-50x50.jpg"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\product\\nikon_d300_5-200x200.jpg",
+      "PackagePath": "staticwebassets\\image\\product\\nikon_d300_5-200x200.jpg"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\product\\nikon_d300_5-50x50.jpg",
+      "PackagePath": "staticwebassets\\image\\product\\nikon_d300_5-50x50.jpg"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\product\\palm_logo-60x60.jpg",
+      "PackagePath": "staticwebassets\\image\\product\\palm_logo-60x60.jpg"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\product\\palm_treo_pro_1-200x200.jpg",
+      "PackagePath": "staticwebassets\\image\\product\\palm_treo_pro_1-200x200.jpg"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\product\\samsung_tab_1-200x200.jpg",
+      "PackagePath": "staticwebassets\\image\\product\\samsung_tab_1-200x200.jpg"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\product\\samsung_tab_1-50x50.jpg",
+      "PackagePath": "staticwebassets\\image\\product\\samsung_tab_1-50x50.jpg"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\product\\samsung_tab_1-90x90.jpg",
+      "PackagePath": "staticwebassets\\image\\product\\samsung_tab_1-90x90.jpg"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\product\\sony_logo-60x60.jpg",
+      "PackagePath": "staticwebassets\\image\\product\\sony_logo-60x60.jpg"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\product\\sony_vaio_1-200x200.jpg",
+      "PackagePath": "staticwebassets\\image\\product\\sony_vaio_1-200x200.jpg"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\product\\sony_vaio_1-50x50.jpg",
+      "PackagePath": "staticwebassets\\image\\product\\sony_vaio_1-50x50.jpg"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\product\\store_location-275x180.jpg",
+      "PackagePath": "staticwebassets\\image\\product\\store_location-275x180.jpg"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\progress.gif",
+      "PackagePath": "staticwebassets\\image\\progress.gif"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\slider\\banner-1.jpg",
+      "PackagePath": "staticwebassets\\image\\slider\\banner-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\slider\\banner-2.jpg",
+      "PackagePath": "staticwebassets\\image\\slider\\banner-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\slider\\banner-3.jpg",
+      "PackagePath": "staticwebassets\\image\\slider\\banner-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\socialicons\\bebo.png",
+      "PackagePath": "staticwebassets\\image\\socialicons\\bebo.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\socialicons\\blogger.png",
+      "PackagePath": "staticwebassets\\image\\socialicons\\blogger.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\socialicons\\delicious.png",
+      "PackagePath": "staticwebassets\\image\\socialicons\\delicious.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\socialicons\\digg.png",
+      "PackagePath": "staticwebassets\\image\\socialicons\\digg.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\socialicons\\dopplr.png",
+      "PackagePath": "staticwebassets\\image\\socialicons\\dopplr.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\socialicons\\ember.png",
+      "PackagePath": "staticwebassets\\image\\socialicons\\ember.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\socialicons\\evernote.png",
+      "PackagePath": "staticwebassets\\image\\socialicons\\evernote.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\socialicons\\facebook.png",
+      "PackagePath": "staticwebassets\\image\\socialicons\\facebook.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\socialicons\\flickr.png",
+      "PackagePath": "staticwebassets\\image\\socialicons\\flickr.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\socialicons\\forrst.png",
+      "PackagePath": "staticwebassets\\image\\socialicons\\forrst.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\socialicons\\friendfeed.png",
+      "PackagePath": "staticwebassets\\image\\socialicons\\friendfeed.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\socialicons\\google_plus.png",
+      "PackagePath": "staticwebassets\\image\\socialicons\\google_plus.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\socialicons\\googletalk.png",
+      "PackagePath": "staticwebassets\\image\\socialicons\\googletalk.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\socialicons\\grooveshark.png",
+      "PackagePath": "staticwebassets\\image\\socialicons\\grooveshark.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\socialicons\\instagram.png",
+      "PackagePath": "staticwebassets\\image\\socialicons\\instagram.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\socialicons\\lastfm.png",
+      "PackagePath": "staticwebassets\\image\\socialicons\\lastfm.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\socialicons\\linkedin.png",
+      "PackagePath": "staticwebassets\\image\\socialicons\\linkedin.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\socialicons\\mixx.png",
+      "PackagePath": "staticwebassets\\image\\socialicons\\mixx.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\socialicons\\myspace.png",
+      "PackagePath": "staticwebassets\\image\\socialicons\\myspace.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\socialicons\\newsvine.png",
+      "PackagePath": "staticwebassets\\image\\socialicons\\newsvine.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\socialicons\\openid.png",
+      "PackagePath": "staticwebassets\\image\\socialicons\\openid.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\socialicons\\pandora.png",
+      "PackagePath": "staticwebassets\\image\\socialicons\\pandora.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\socialicons\\picasa.png",
+      "PackagePath": "staticwebassets\\image\\socialicons\\picasa.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\socialicons\\pinterest.png",
+      "PackagePath": "staticwebassets\\image\\socialicons\\pinterest.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\socialicons\\posterous.png",
+      "PackagePath": "staticwebassets\\image\\socialicons\\posterous.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\socialicons\\readernaut.png",
+      "PackagePath": "staticwebassets\\image\\socialicons\\readernaut.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\socialicons\\reddit.png",
+      "PackagePath": "staticwebassets\\image\\socialicons\\reddit.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\socialicons\\rss.png",
+      "PackagePath": "staticwebassets\\image\\socialicons\\rss.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\socialicons\\sharethis.png",
+      "PackagePath": "staticwebassets\\image\\socialicons\\sharethis.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\socialicons\\skype.png",
+      "PackagePath": "staticwebassets\\image\\socialicons\\skype.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\socialicons\\spotify.png",
+      "PackagePath": "staticwebassets\\image\\socialicons\\spotify.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\socialicons\\stumbleupon.png",
+      "PackagePath": "staticwebassets\\image\\socialicons\\stumbleupon.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\socialicons\\technorati.png",
+      "PackagePath": "staticwebassets\\image\\socialicons\\technorati.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\socialicons\\tumblr.png",
+      "PackagePath": "staticwebassets\\image\\socialicons\\tumblr.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\socialicons\\twitter.png",
+      "PackagePath": "staticwebassets\\image\\socialicons\\twitter.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\socialicons\\viadeo.png",
+      "PackagePath": "staticwebassets\\image\\socialicons\\viadeo.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\socialicons\\viddler.png",
+      "PackagePath": "staticwebassets\\image\\socialicons\\viddler.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\socialicons\\vimeo.png",
+      "PackagePath": "staticwebassets\\image\\socialicons\\vimeo.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\socialicons\\virb.png",
+      "PackagePath": "staticwebassets\\image\\socialicons\\virb.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\socialicons\\vk.png",
+      "PackagePath": "staticwebassets\\image\\socialicons\\vk.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\socialicons\\xing.png",
+      "PackagePath": "staticwebassets\\image\\socialicons\\xing.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\socialicons\\yahoobuzz.png",
+      "PackagePath": "staticwebassets\\image\\socialicons\\yahoobuzz.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\socialicons\\yelp.png",
+      "PackagePath": "staticwebassets\\image\\socialicons\\yelp.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\socialicons\\youtube.png",
+      "PackagePath": "staticwebassets\\image\\socialicons\\youtube.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\js\\TechStore\\bootstrap\\css\\bootstrap-flipped.css",
+      "PackagePath": "staticwebassets\\js\\TechStore\\bootstrap\\css\\bootstrap-flipped.css"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\js\\TechStore\\bootstrap\\css\\bootstrap-flipped.css.map",
+      "PackagePath": "staticwebassets\\js\\TechStore\\bootstrap\\css\\bootstrap-flipped.css.map"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\js\\TechStore\\bootstrap\\css\\bootstrap-flipped.min.css",
+      "PackagePath": "staticwebassets\\js\\TechStore\\bootstrap\\css\\bootstrap-flipped.min.css"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\js\\TechStore\\bootstrap\\css\\bootstrap-rtl.css",
+      "PackagePath": "staticwebassets\\js\\TechStore\\bootstrap\\css\\bootstrap-rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\js\\TechStore\\bootstrap\\css\\bootstrap-rtl.css.map",
+      "PackagePath": "staticwebassets\\js\\TechStore\\bootstrap\\css\\bootstrap-rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\js\\TechStore\\bootstrap\\css\\bootstrap-rtl.min.css",
+      "PackagePath": "staticwebassets\\js\\TechStore\\bootstrap\\css\\bootstrap-rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\js\\TechStore\\bootstrap\\css\\bootstrap-theme.css",
+      "PackagePath": "staticwebassets\\js\\TechStore\\bootstrap\\css\\bootstrap-theme.css"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\js\\TechStore\\bootstrap\\css\\bootstrap-theme.min.css",
+      "PackagePath": "staticwebassets\\js\\TechStore\\bootstrap\\css\\bootstrap-theme.min.css"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\js\\TechStore\\bootstrap\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\js\\TechStore\\bootstrap\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\js\\TechStore\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\js\\TechStore\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\js\\TechStore\\bootstrap\\fonts\\glyphicons-halflings-regular.eot",
+      "PackagePath": "staticwebassets\\js\\TechStore\\bootstrap\\fonts\\glyphicons-halflings-regular.eot"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\js\\TechStore\\bootstrap\\fonts\\glyphicons-halflings-regular.svg",
+      "PackagePath": "staticwebassets\\js\\TechStore\\bootstrap\\fonts\\glyphicons-halflings-regular.svg"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\js\\TechStore\\bootstrap\\fonts\\glyphicons-halflings-regular.ttf",
+      "PackagePath": "staticwebassets\\js\\TechStore\\bootstrap\\fonts\\glyphicons-halflings-regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\js\\TechStore\\bootstrap\\fonts\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\js\\TechStore\\bootstrap\\fonts\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\js\\TechStore\\bootstrap\\fonts\\glyphicons-halflings-regular.woff2",
+      "PackagePath": "staticwebassets\\js\\TechStore\\bootstrap\\fonts\\glyphicons-halflings-regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\js\\TechStore\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\js\\TechStore\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\js\\TechStore\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\TechStore\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\js\\TechStore\\custom.js",
+      "PackagePath": "staticwebassets\\js\\TechStore\\custom.js"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\js\\TechStore\\jquery-2.1.1.min.js",
+      "PackagePath": "staticwebassets\\js\\TechStore\\jquery-2.1.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\js\\TechStore\\jquery.dcjqaccordion.js",
+      "PackagePath": "staticwebassets\\js\\TechStore\\jquery.dcjqaccordion.js"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\js\\TechStore\\jquery.dcjqaccordion.min.js",
+      "PackagePath": "staticwebassets\\js\\TechStore\\jquery.dcjqaccordion.min.js"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\js\\TechStore\\jquery.easing-1.3.min.js",
+      "PackagePath": "staticwebassets\\js\\TechStore\\jquery.easing-1.3.min.js"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\js\\TechStore\\jquery.elevateZoom-3.0.8.min.js",
+      "PackagePath": "staticwebassets\\js\\TechStore\\jquery.elevateZoom-3.0.8.min.js"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\js\\TechStore\\jquery.elevatezoom.js",
+      "PackagePath": "staticwebassets\\js\\TechStore\\jquery.elevatezoom.js"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\js\\TechStore\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\js\\TechStore\\owl.carousel.js"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\js\\TechStore\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\js\\TechStore\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\js\\TechStore\\swipebox\\lib\\ios-orientationchange-fix.js",
+      "PackagePath": "staticwebassets\\js\\TechStore\\swipebox\\lib\\ios-orientationchange-fix.js"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\js\\TechStore\\swipebox\\lib\\jquery-2.1.0.min.js",
+      "PackagePath": "staticwebassets\\js\\TechStore\\swipebox\\lib\\jquery-2.1.0.min.js"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\js\\TechStore\\swipebox\\src\\css\\swipebox.css",
+      "PackagePath": "staticwebassets\\js\\TechStore\\swipebox\\src\\css\\swipebox.css"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\js\\TechStore\\swipebox\\src\\css\\swipebox.min.css",
+      "PackagePath": "staticwebassets\\js\\TechStore\\swipebox\\src\\css\\swipebox.min.css"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\js\\TechStore\\swipebox\\src\\img\\icons.png",
+      "PackagePath": "staticwebassets\\js\\TechStore\\swipebox\\src\\img\\icons.png"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\js\\TechStore\\swipebox\\src\\img\\icons.svg",
+      "PackagePath": "staticwebassets\\js\\TechStore\\swipebox\\src\\img\\icons.svg"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\js\\TechStore\\swipebox\\src\\img\\loader.gif",
+      "PackagePath": "staticwebassets\\js\\TechStore\\swipebox\\src\\img\\loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\js\\TechStore\\swipebox\\src\\js\\jquery.swipebox.js",
+      "PackagePath": "staticwebassets\\js\\TechStore\\swipebox\\src\\js\\jquery.swipebox.js"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\js\\TechStore\\swipebox\\src\\js\\jquery.swipebox.min.js",
+      "PackagePath": "staticwebassets\\js\\TechStore\\swipebox\\src\\js\\jquery.swipebox.min.js"
     },
     {
       "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\js\\site.js",
