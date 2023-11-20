@@ -21,11 +21,43 @@ app.UseRouting();
 app.UseAuthorization();
 
 app.MapControllerRoute(
+    name: "default",
+    pattern: "",
+    defaults: new { controller = "Home", action = "Index" });
+
+app.MapControllerRoute(
     name: "home",
-    pattern: "{controller=Home}/{action=Index}/{id?}");
+    pattern: "home",
+    defaults: new { controller = "Home", action = "Index" });
+
+app.MapControllerRoute(
+    name: "register",
+    pattern: "register",
+    defaults: new { controller = "Account", action = "Register" });
 
 app.MapControllerRoute(
     name: "login",
-    pattern: "{controller=Login}/{action=Login}/{id?}");
+    pattern: "login",
+    defaults: new { controller = "Account", action = "Login" });
+
+app.MapControllerRoute(
+    name: "cart",
+    pattern: "cart",
+    defaults: new { controller = "Cart", action = "Cart" });
+
+app.MapControllerRoute(
+    name: "checkout",
+    pattern: "checkout",
+    defaults: new { controller = "Checkout", action = "Checkout" });
+
+app.MapControllerRoute(
+    name: "product",
+    pattern: "product",
+    defaults: new { controller = "Product", action = "Product" });
+
+app.MapControllerRoute(
+    name: "category",
+    pattern: "category",
+    defaults: new { controller = "Category", action = "Category" });
 
 app.Run();
