@@ -2018,4 +2018,6 @@ div.required .control-label:before {
 	content: '* ';
 	color: #F00;
 	font-weight: bold;
+	position: absolute;
+	right: 7px;
 }
