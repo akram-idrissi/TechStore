@@ -4,16 +4,21 @@ using TechStore.Models;
 
 namespace TechStore.Controllers
 {
-    public class LoginController : Controller
+    public class CategoryController : Controller
     {
-        private readonly ILogger<LoginController> _logger;
+        private readonly ILogger<CategoryController> _logger;
 
-        public LoginController(ILogger<LoginController> logger)
+        public CategoryController(ILogger<CategoryController> logger)
         {
             _logger = logger;
         }
 
-        public IActionResult Login()
+        public IActionResult Category()
+        {
+            return View();
+        }
+
+        public IActionResult Privacy()
         {
             return View();
         }
