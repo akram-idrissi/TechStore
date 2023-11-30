@@ -1,5 +1,5 @@
 ﻿@{
-    ViewData["Title"] = "Home";
+    ViewData["Title"] = "Login";
 }
 
 
@@ -7,9 +7,9 @@
     <div class="container">
         <!-- Breadcrumb Start-->
         <ul class="breadcrumb">
-            <li><a href="index.html"><i class="fa fa-home"></i></a></li>
-            <li><a href="index.html">Home</a></li>
-            <li><a href="login.html">Login</a></li>
+            <li><a href="@Url.RouteUrl("home")"><i class="fa fa-home"></i></a></li>
+            <li><a href="@Url.RouteUrl("home")">Home</a></li>
+            <li><a href="@Url.RouteUrl("login")">Login</a></li>
         </ul>
         <!-- Breadcrumb End-->
         <div class="row">
@@ -21,7 +21,7 @@
                         <h2 class="subtitle">New Customer</h2>
                         <p><strong>Register Account</strong></p>
                         <p>By creating an account you will be able to shop faster, be up to date on an order's status, and keep track of the orders you have previously made.</p>
-                        <a href="register.html" class="btn btn-primary">Continue</a>
+                        <a href="@Url.RouteUrl("register")" class="btn btn-primary">Continue</a>
                     </div>
                     <div class="col-sm-6">
                         <h2 class="subtitle">Returning Customer</h2>

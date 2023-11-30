@@ -26,11 +26,11 @@
                 <div class="row">
                     <div id="top-links" class="nav pull-right flip">
                         <ul>
-                            <li><a href="login.html">Login</a></li>
-                            <li><a href="register.html">Register</a></li>
+                            <li><a href="@Url.RouteUrl("login")">Login</a></li>
+                            <li><a href="@Url.RouteUrl("register")">Register</a></li>
                         </ul>
                     </div>
-                </div>
+                </div>  
             </div>
         </nav>
         <!-- Top Bar End-->
@@ -41,7 +41,7 @@
                     <!-- Logo Start -->
                     <div class="col-table-cell col-lg-6 col-md-6 col-sm-12 col-xs-12 inner">
                         <div id="logo">
-                            <a href="index.html"><img class="img-responsive" src="image/logo2.png" title="TechStore" alt="TechStore" /></a>
+                                <a href="@Url.RouteUrl("home")"><img class="img-responsive" src="image/logo2.png" title="TechStore" alt="TechStore" /></a>
                         </div>
                     </div>
                     <!-- Logo End -->
@@ -49,8 +49,9 @@
                     <div class="col-table-cell col-lg-3 col-md-3 col-sm-6 col-xs-12">
                         <div id="cart">
                             <button type="button" data-toggle="dropdown" data-loading-text="Loading..." class="heading dropdown-toggle">
-                                <span class="cart-icon pull-left flip"></span>
-                                <span id="cart-total">2 item(s)</span>
+                                <span class="cart-icon pull-left flip bag"></span>
+                                <span id="cart-total" class="red-bubble">2 items</span>
+                                
                             </button>
                             <ul class="dropdown-menu">
                                 <li>
@@ -103,7 +104,7 @@
                                                 </tr>
                                             </tbody>
                                         </table>
-                                        <p class="checkout"><a href="cart.html" class="btn btn-primary"><i class="fa fa-shopping-cart"></i> View Cart</a>&nbsp;&nbsp;&nbsp;<a href="checkout.html" class="btn btn-primary"><i class="fa fa-share"></i> Checkout</a></p>
+                                            <p class="checkout"><a href="@Url.RouteUrl("cart")" class="btn btn-primary"><i class="fa fa-shopping-cart"></i> View Cart</a>&nbsp;&nbsp;&nbsp;<a href="@Url.RouteUrl("checkout")" class="btn btn-primary"><i class="fa fa-share"></i> Checkout</a></p>
                                     </div>
                                 </li>
                             </ul>

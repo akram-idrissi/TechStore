@@ -1,0 +1,77 @@
+﻿@model TechStore.Models.User;
+
+@{
+    ViewData["Title"] = "Register";
+}
+
+
+<div class="container">
+    <div class="container">
+    <!-- Breadcrumb Start-->
+    <ul class="breadcrumb">
+            <li><a href="@Url.RouteUrl("home")"><i class="fa fa-home"></i></a></li>
+            <li><a href="@Url.RouteUrl("home")">Home</a></li>
+            <li><a href="@Url.RouteUrl("register")">Register</a></li>
+    </ul>
+    <!-- Breadcrumb End-->
+    <div class="row">
+        <!--Middle Part Start-->
+        <div asp-validation-summary="All" class="col-sm-9" id="content">
+                <h1 class="title">Register Account</h1>
+                <p>If you already have an account with us, please login at the <a href="@Url.RouteUrl("login")">Login Page</a>.</p>
+
+                <form class="form-horizontal" method="post" asp-controller="Account" asp-action="register">
+                <fieldset id="account">
+                    <legend>Your Personal Details</legend>
+                    <div style="display: none;" class="form-group required">
+                        <label class="col-sm-2 control-label">Customer Group</label>
+                        <div class="col-sm-10">
+                            <div class="radio">
+                                <label>
+                                    <input type="radio" checked="checked" value="1" name="customer_group_id"> Default
+                                </label>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="form-group required">
+                        <label for="input-firstname" class="col-sm-2 control-label">First Name</label>
+                        <div class="col-sm-10">
+                            <input  class="form-control" id="input-firstname"
+                            placeholder="First Name" value="" name="prenom">
+                        </div>
+                    </div>
+                    <div class="form-group required">
+                        <label for="input-lastname" class="col-sm-2 control-label">Last Name</label>
+                        <div class="col-sm-10">
+                                <input  class="form-control" id="input-lastname"
+                                       placeholder="Last Name" value="" name="nom">
+                        </div>
+                    </div>
+                    <div class="form-group required">
+                        <label for="input-email" class="col-sm-2 control-label">E-Mail</label>
+                        <div class="col-sm-10">
+                                <input  class="form-control" id="input-email"
+                                placeholder="E-Mail" value="" name="email">
+                        </div>
+                    </div>
+                    <div class="form-group required">
+                        <label for="input-password" class="col-sm-2 control-label">Password</label>
+                        <div class="col-sm-10">
+                                <input  class="form-control" id="input-password"
+                                placeholder="Password" value="" name="password">
+                        </div>
+                    </div>
+                    <div class="form-group required">
+                            <label for="input-password" class="col-sm-2 control-label"></label>
+                        <div class="col-sm-10">
+                                <input type="submit" class="form-control" id="input-confirm">
+                        </div>
+                    </div>
+                </fieldset>
+                
+            </form>
+        </div>
+        <!--Middle Part End -->
+        </div>
+    </div>
+</div>
