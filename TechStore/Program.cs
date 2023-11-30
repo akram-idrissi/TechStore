@@ -1,5 +1,7 @@
 using TechStore.Data;
+using TechStore.Models;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.AspNetCore.Identity;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -10,6 +12,10 @@ builder.Services.AddDbContext<DataContext>(options =>
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+
+builder.Services.AddIdentity<User, IdentityRole>()
+ .AddEntityFrameworkStores<DataContext>()
+ .AddDefaultTokenProviders();
 
 var app = builder.Build();
 
