@@ -80,8 +80,9 @@ namespace TechStore.Controllers
             return View();
         }
 
+        [HttpPost]
         [Authorize]
-        public async Task<IActionResult> LogOut()
+        public async Task<IActionResult> Logout()
         {
             await signInManager.SignOutAsync();
             return RedirectToAction("Index", "Home");
