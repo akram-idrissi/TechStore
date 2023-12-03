@@ -4,6 +4,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using TechStore.Data;
 using TechStore.Models;
+using Microsoft.AspNetCore.Authorization;
 
 namespace TechStore.Controllers
 {
@@ -73,12 +74,13 @@ namespace TechStore.Controllers
             return View(model);
         }
 
+        [Authorize]
         public IActionResult Logout()
         {
             return View();
         }
 
-        [HttpPost]
+        [Authorize]
         public async Task<IActionResult> LogOut()
         {
             await signInManager.SignOutAsync();
