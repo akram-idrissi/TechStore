@@ -1,0 +1,34 @@
+﻿@model TechStore.Models.LoginViewModel;
+
+@{
+    ViewData["Title"] = "Logout";
+}
+
+
+<div id="container">
+    <div class="container">
+        <!-- Breadcrumb Start-->
+        <ul class="breadcrumb">
+            <li><a href="@Url.RouteUrl("home")"><i class="fa fa-home"></i></a></li>
+            <li><a href="@Url.RouteUrl("home")">Home</a></li>
+            <li><a href="@Url.RouteUrl("register")">Register</a></li>
+            <li><a href="@Url.RouteUrl("login")">Login</a></li>
+        </ul>
+        <!-- Breadcrumb End-->
+        <div class="row">
+            <!--Middle Part Start-->
+            <div id="content" class="col-sm-9">
+                <h1 class="title">Logout Page</h1>
+                <div class="col-sm-6" style="padding-right: 90px;">
+                    <p>Do you want to go back ?</p>
+                    <a href="@Url.RouteUrl("login")" class="btn btn-primary">Login</a>
+                </div>
+                <div class="col-sm-6">
+                    <h2 class="subtitle">Returning Customer</h2>
+                    <p><strong>I am a returning customer</strong></p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</div>
