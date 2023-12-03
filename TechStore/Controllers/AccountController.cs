@@ -1,21 +1,23 @@
-using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
-using TechStore.Models;
+using Microsoft.AspNetCore.Identity;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using TechStore.Data;
-
+using TechStore.Models;
 
 namespace TechStore.Controllers
 {
     public class AccountController : Controller
     {
-        
+        private UserManager<User> userManager;
+        private SignInManager<User> signInManager;
 
-        private readonly DataContext _context;
+        //private readonly DataContext _context;
 
-        public AccountController(DataContext context)
+        public AccountController(UserManager<User> userMngr, SignInManager<User> signInMngr)
         {
-            _context = context;
+            userManager = userMngr;
+            signInManager = signInMngr;
         }
 
         public IActionResult Login()
@@ -23,9 +25,52 @@ namespace TechStore.Controllers
             return View();
         }
 
+        [HttpPost]
+        public async Task<IActionResult> Login(LoginViewModel model)
+        {
+            if (ModelState.IsValid)
+            {
+                var result = await signInManager.PasswordSignInAsync(
+                    model.username,
+                    model.password,
+                    isPersistent: model.RememberMe,
+                    lockoutOnFailure: false
+                );
+                if (result.Succeeded)
+                {
+                    return RedirectToAction("Index", "Home");
+                }
+            }
+            ModelState.AddModelError("", "Invalid username/password.");
+            return View(model);
+        }
+
         public IActionResult Register()
         {
             return View();
+        }
+
+        [HttpPost]
+        public async Task<IActionResult> Register(RegisterViewModel model)
+        {
+            if (ModelState.IsValid)
+            {
+                var user = new User { UserName = model.username, Email = model.email };
+                var result = await userManager.CreateAsync(user, model.password);
+                if (result.Succeeded)
+                {
+                    await signInManager.SignInAsync(user, isPersistent: false);
+                    return RedirectToAction("Login");
+                }
+                else
+                {
+                    foreach (var error in result.Errors)
+                    {
+                        ModelState.AddModelError("", error.Description);
+                    }
+                }
+            }
+            return View(model);
         }
 
         public IActionResult Logout()
@@ -33,51 +78,11 @@ namespace TechStore.Controllers
             return View();
         }
 
-        public async Task<ActionResult<List<User>>> getClients()
-        {
-            return await _context.users.ToListAsync();
-        }
-
-        public async Task<ActionResult<User>?> getClient(int id)
-        {
-            var client = await _context.users.FindAsync(id);
-
-            if (client is null)
-                return null;
-
-            return client;
-        }
-
-        public async void addClient(User client)
-        {
-            _context.users.Add(client);
-            await _context.SaveChangesAsync();
-        }
-
-        public async void removeClient(int id)
-        {
-            var client = await _context.users.FindAsync(id);
-
-            if (client is not null)
-            {
-                _context.users.Remove(client);
-                await _context.SaveChangesAsync();
-            }
-        }
-
         [HttpPost]
-        public IActionResult Register(User user)
+        public async Task<IActionResult> LogOut()
         {
-            if (ModelState.IsValid)
-            {
-                
-                return RedirectToAction("Register");
-            }
-            else
-            {
-                return View();
-            }
+            await signInManager.SignOutAsync();
+            return RedirectToAction("Index", "Home");
         }
-
     }
 }
