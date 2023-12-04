@@ -23,6 +23,8 @@ namespace TechStore.Controllers
 
         public IActionResult Login()
         {
+            if (signInManager.IsSignedIn(User))
+                return RedirectToAction("Index", "Home");
             return View();
         }
 
@@ -48,6 +50,8 @@ namespace TechStore.Controllers
 
         public IActionResult Register()
         {
+            if (signInManager.IsSignedIn(User))
+                return RedirectToAction("Index", "Home");
             return View();
         }
 
@@ -74,13 +78,6 @@ namespace TechStore.Controllers
             return View(model);
         }
 
-        [Authorize]
-        public IActionResult Logout()
-        {
-            return View();
-        }
-
-        [HttpPost]
         [Authorize]
         public async Task<IActionResult> Logout()
         {
