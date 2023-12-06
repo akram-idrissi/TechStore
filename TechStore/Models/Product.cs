@@ -5,12 +5,10 @@ namespace TechStore.Models
     public class Product
     {
         public int id { get; set; }
-        public String nom { get; set; }
-        public String description { get; set; }
+        public String titre { get; set; }
         public int prix { get; set; }
-        public int reviews { get; set; }
-        public int stockQt { get; set; }
-        public String[] images { get; set; }
+        public int compare_prix { get; set; }
+        public String images { get; set; }
         public bool inStock { get; set; }
 
         public int categoryID { get; set; }
