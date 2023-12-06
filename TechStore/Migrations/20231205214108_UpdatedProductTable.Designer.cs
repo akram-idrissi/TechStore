@@ -3,6 +3,7 @@ using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using TechStore.Data;
 
@@ -11,9 +12,11 @@ using TechStore.Data;
 namespace TechStore.Migrations
 {
     [DbContext(typeof(DataContext))]
-    partial class DataContextModelSnapshot : ModelSnapshot
+    [Migration("20231205214108_UpdatedProductTable")]
+    partial class UpdatedProductTable
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -212,6 +215,10 @@ namespace TechStore.Migrations
                     b.Property<int>("compare_prix")
                         .HasColumnType("int");
 
+                    b.Property<string>("description")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
                     b.Property<string>("images")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
@@ -220,6 +227,12 @@ namespace TechStore.Migrations
                         .HasColumnType("bit");
 
                     b.Property<int>("prix")
+                        .HasColumnType("int");
+
+                    b.Property<int>("reviews")
+                        .HasColumnType("int");
+
+                    b.Property<int>("stockQt")
                         .HasColumnType("int");
 
                     b.Property<string>("titre")
