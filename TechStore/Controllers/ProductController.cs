@@ -12,17 +12,17 @@ namespace TechStore.Controllers
         public ProductController(DataContext context)
         {
             _context = context;
-        }
+        } 
 
         public IActionResult Product()
         {
             return View();
         }
 
-        [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
-        public IActionResult Error()
+        public IActionResult ProductDetail(int id)
         {
-            return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
+            var product = _context.products.Where(p => p.id == id).FirstOrDefault();
+            return View(product);
         }
     }
 }
