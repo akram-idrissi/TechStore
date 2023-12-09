@@ -26,7 +26,7 @@
             </aside>
             <!--Middle Part Start-->
             <div id="content" class="col-sm-9">
-                <h1 class="title">Electronics</h1>
+                <h1 class="title">@ViewBag.categories[0].Nom</h1>
                 <div class="product-filter">
                     <div class="row">
                         <div class="col-md-4 col-sm-5">
@@ -36,7 +36,6 @@
                                 <button type="button" id="grid-view" class="btn btn-default" data-toggle="tooltip"
                                     title="Grid"><i class="fa fa-th"></i></button>
                             </div>
-                            <a href="compare.html" id="compare-total">Product Compare (0)</a>
                         </div>
                         <div class="col-sm-2 text-right">
                             <label class="control-label" for="input-sort">Sort By:</label>
@@ -87,8 +86,8 @@
                                                 <a href="@Url.RouteUrl("product")"> @product.titre</a>
                                             </h4>
                                             <p class="price">
-                                                <span class="price-new">$ @product.compare_prix</span>
-                                                <span class="price-old">$ @product.prix</span>
+                                                <span class="price-new">$ @product.prix</span>
+                                                <span class="price-old">$ @product.compare_prix</span>
                                             </p>
                                         </div>
                                         <div class="button-group">
