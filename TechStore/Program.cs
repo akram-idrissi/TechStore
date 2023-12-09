@@ -77,10 +77,10 @@ app.MapControllerRoute(
     pattern: "checkout",
     defaults: new { controller = "Checkout", action = "Checkout" });
 
-app.MapControllerRoute(
+/* app.MapControllerRoute(
     name: "product",
     pattern: "product",
-    defaults: new { controller = "Product", action = "Product" });
+    defaults: new { controller = "Product", action = "Product" }); */
 
 app.MapControllerRoute(
     name: "category",
@@ -95,6 +95,6 @@ app.MapControllerRoute(
 app.MapControllerRoute(
     name: "product",
     pattern: "products/{id}",
-    defaults: new { controller = "Product", action = "ProductDetail", id=""});
+    defaults: new { controller = "Product", action = "Product", id=""});
 
 app.Run();
