@@ -1,4 +1,6 @@
-﻿@{
+﻿@model TechStore.Models.Product
+
+@{
     ViewData["Title"] = "Produit";
 }
 
@@ -29,30 +31,16 @@
                         </div>
                         <div class="col-sm-6">
                             <ul class="list-unstyled description">
-                                <li><b>Brand:</b> <a href="#"><span itemprop="brand">Apple</span></a></li>
-                                <li><b>Product Code:</b> <span itemprop="mpn">Product 17</span></li>
-                                <li><b>Reward Points:</b> 700</li>
+                                <!-- <li><b>Brand:</b> <a href="#"><span itemprop="brand">Apple</span></a></li> -->
                                 <li><b>Availability:</b> <span class="instock">In Stock</span></li>
                             </ul>
                             <ul class="price-box">
                                 <li class="price" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
-                                    <span class="price-old">$1,202.00</span> <span itemprop="price">$1,142.00<span itemprop="availability" content="In Stock"></span></span>
+                                    <span class="price-old">$ @Model.compare_prix</span> <span itemprop="price">$ @Model.prix<span itemprop="availability" content="In Stock"></span></span>
                                 </li>
                                 <li></li>
-                                <li>Ex Tax: $950.00</li>
                             </ul>
                             <div id="product">
-                                <h3 class="subtitle">Available Options</h3>
-                                <div class="form-group required">
-                                    <label class="control-label">Color</label>
-                                    <select class="form-control" id="input-option200" name="option[200]">
-                                        <option value=""> --- Please Select --- </option>
-                                        <option value="4">Black </option>
-                                        <option value="3">Silver </option>
-                                        <option value="1">Green </option>
-                                        <option value="2">Blue </option>
-                                    </select>
-                                </div>
                                 <div class="cart">
                                     <div>
                                         <div class="qty">
@@ -65,16 +53,7 @@
                                         </div>
                                         <button type="button" id="button-cart" class="btn btn-primary btn-lg">Add to Cart</button>
                                     </div>
-                                    <div>
-                                        <button type="button" class="wishlist" onClick=""><i class="fa fa-heart"></i> Add to Wish List</button>
-                                        <br />
-                                        <button type="button" class="wishlist" onClick=""><i class="fa fa-exchange"></i> Compare this Product</button>
-                                    </div>
                                 </div>
-                            </div>
-                            <div class="rating" itemprop="aggregateRating" itemscope itemtype="http://schema.org/AggregateRating">
-                                <meta itemprop="ratingValue" content="0" />
-                                <p><span class="fa fa-stack"><i class="fa fa-star fa-stack-1x"></i><i class="fa fa-star-o fa-stack-1x"></i></span> <span class="fa fa-stack"><i class="fa fa-star fa-stack-1x"></i><i class="fa fa-star-o fa-stack-1x"></i></span> <span class="fa fa-stack"><i class="fa fa-star fa-stack-1x"></i><i class="fa fa-star-o fa-stack-1x"></i></span> <span class="fa fa-stack"><i class="fa fa-star fa-stack-1x"></i><i class="fa fa-star-o fa-stack-1x"></i></span> <span class="fa fa-stack"><i class="fa fa-star-o fa-stack-1x"></i></span> <a onClick="$('a[href=\'#tab-review\']').trigger('click'); return false;" href=""><span itemprop="reviewCount">1 reviews</span></a> / <a onClick="$('a[href=\'#tab-review\']').trigger('click'); return false;" href="">Write a review</a></p>
                             </div>
                             <hr>
                             <!-- AddThis Button BEGIN -->
@@ -89,6 +68,8 @@
                             <!-- AddThis Button END -->
                         </div>
                     </div>
+
+                    <!-- Description and Reviews  -->
                     <ul class="nav nav-tabs">
                         <li class="active"><a href="#tab-description" data-toggle="tab">Description</a></li>
                         <li><a href="#tab-review" data-toggle="tab">Reviews (2)</a></li>
@@ -107,74 +88,78 @@
                             </div>
                         </div>
 
-                        <div id="tab-review" class="tab-pane">
-                            <form class="form-horizontal">
-                                <div id="review">
-                                    <div>
-                                        <table class="table table-striped table-bordered">
-                                            <tbody>
-                                                <tr>
-                                                    <td style="width: 50%;"><strong><span>harvey</span></strong></td>
-                                                    <td class="text-right"><span>20/01/2016</span></td>
-                                                </tr>
-                                                <tr>
-                                                    <td colspan="2">
-                                                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
-                                                        <div class="rating"> <span class="fa fa-stack"><i class="fa fa-star fa-stack-2x"></i><i class="fa fa-star-o fa-stack-2x"></i></span> <span class="fa fa-stack"><i class="fa fa-star fa-stack-2x"></i><i class="fa fa-star-o fa-stack-2x"></i></span> <span class="fa fa-stack"><i class="fa fa-star fa-stack-2x"></i><i class="fa fa-star-o fa-stack-2x"></i></span> <span class="fa fa-stack"><i class="fa fa-star fa-stack-2x"></i><i class="fa fa-star-o fa-stack-2x"></i></span> <span class="fa fa-stack"><i class="fa fa-star fa-stack-2x"></i><i class="fa fa-star-o fa-stack-2x"></i></span> </div>
-                                                    </td>
-                                                </tr>
-                                            </tbody>
-                                        </table>
-                                        <table class="table table-striped table-bordered">
-                                            <tbody>
-                                                <tr>
-                                                    <td style="width: 50%;"><strong><span>Andrson</span></strong></td>
-                                                    <td class="text-right"><span>20/01/2016</span></td>
-                                                </tr>
-                                                <tr>
-                                                    <td colspan="2">
-                                                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
-                                                        <div class="rating"> <span class="fa fa-stack"><i class="fa fa-star fa-stack-2x"></i><i class="fa fa-star-o fa-stack-2x"></i></span> <span class="fa fa-stack"><i class="fa fa-star fa-stack-2x"></i><i class="fa fa-star-o fa-stack-2x"></i></span> <span class="fa fa-stack"><i class="fa fa-star fa-stack-2x"></i><i class="fa fa-star-o fa-stack-2x"></i></span> <span class="fa fa-stack"><i class="fa fa-star-o fa-stack-2x"></i></span> <span class="fa fa-stack"><i class="fa fa-star-o fa-stack-2x"></i></span> </div>
-                                                    </td>
-                                                </tr>
-                                            </tbody>
-                                        </table>
+                        <!-- Reviews  -->
+                        <!-- 
+                            <div id="tab-review" class="tab-pane">
+                                <form class="form-horizontal">
+                                    <div id="review">
+                                        <div>
+                                            <table class="table table-striped table-bordered">
+                                                <tbody>
+                                                    <tr>
+                                                        <td style="width: 50%;"><strong><span>harvey</span></strong></td>
+                                                        <td class="text-right"><span>20/01/2016</span></td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td colspan="2">
+                                                            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+                                                            <div class="rating"> <span class="fa fa-stack"><i class="fa fa-star fa-stack-2x"></i><i class="fa fa-star-o fa-stack-2x"></i></span> <span class="fa fa-stack"><i class="fa fa-star fa-stack-2x"></i><i class="fa fa-star-o fa-stack-2x"></i></span> <span class="fa fa-stack"><i class="fa fa-star fa-stack-2x"></i><i class="fa fa-star-o fa-stack-2x"></i></span> <span class="fa fa-stack"><i class="fa fa-star fa-stack-2x"></i><i class="fa fa-star-o fa-stack-2x"></i></span> <span class="fa fa-stack"><i class="fa fa-star fa-stack-2x"></i><i class="fa fa-star-o fa-stack-2x"></i></span> </div>
+                                                        </td>
+                                                    </tr>
+                                                </tbody>
+                                            </table>
+                                            <table class="table table-striped table-bordered">
+                                                <tbody>
+                                                    <tr>
+                                                        <td style="width: 50%;"><strong><span>Andrson</span></strong></td>
+                                                        <td class="text-right"><span>20/01/2016</span></td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td colspan="2">
+                                                            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+                                                            <div class="rating"> <span class="fa fa-stack"><i class="fa fa-star fa-stack-2x"></i><i class="fa fa-star-o fa-stack-2x"></i></span> <span class="fa fa-stack"><i class="fa fa-star fa-stack-2x"></i><i class="fa fa-star-o fa-stack-2x"></i></span> <span class="fa fa-stack"><i class="fa fa-star fa-stack-2x"></i><i class="fa fa-star-o fa-stack-2x"></i></span> <span class="fa fa-stack"><i class="fa fa-star-o fa-stack-2x"></i></span> <span class="fa fa-stack"><i class="fa fa-star-o fa-stack-2x"></i></span> </div>
+                                                        </td>
+                                                    </tr>
+                                                </tbody>
+                                            </table>
+                                        </div>
+                                        <div class="text-right"></div>
                                     </div>
-                                    <div class="text-right"></div>
-                                </div>
-                                <h2>Write a review</h2>
-                                <div class="form-group required">
-                                    <div class="col-sm-12">
-                                        <label for="input-name" class="control-label">Your Name</label>
-                                        <input type="text" class="form-control" id="input-name" value="" name="name">
+                                    <h2>Write a review</h2>
+                                    <div class="form-group required">
+                                        <div class="col-sm-12">
+                                            <label for="input-name" class="control-label">Your Name</label>
+                                            <input type="text" class="form-control" id="input-name" value="" name="name">
+                                        </div>
                                     </div>
-                                </div>
-                                <div class="form-group required">
-                                    <div class="col-sm-12">
-                                        <label for="input-review" class="control-label">Your Review</label>
-                                        <textarea class="form-control" id="input-review" rows="5" name="text"></textarea>
-                                        <div class="help-block"><span class="text-danger">Note:</span> HTML is not translated!</div>
+                                    <div class="form-group required">
+                                        <div class="col-sm-12">
+                                            <label for="input-review" class="control-label">Your Review</label>
+                                            <textarea class="form-control" id="input-review" rows="5" name="text"></textarea>
+                                            <div class="help-block"><span class="text-danger">Note:</span> HTML is not translated!</div>
+                                        </div>
                                     </div>
-                                </div>
-                                <div class="form-group required">
-                                    <div class="col-sm-12">
-                                        <label class="control-label">Rating</label>
-                                        &nbsp;&nbsp;&nbsp; Bad&nbsp;
-                                        <input type="radio" value="1" name="rating"> &nbsp;
-                                        <input type="radio" value="2" name="rating"> &nbsp;
-                                        <input type="radio" value="3" name="rating"> &nbsp;
-                                        <input type="radio" value="4" name="rating"> &nbsp;
-                                        <input type="radio" value="5" name="rating"> &nbsp;Good
+                                    <div class="form-group required">
+                                        <div class="col-sm-12">
+                                            <label class="control-label">Rating</label>
+                                            &nbsp;&nbsp;&nbsp; Bad&nbsp;
+                                            <input type="radio" value="1" name="rating"> &nbsp;
+                                            <input type="radio" value="2" name="rating"> &nbsp;
+                                            <input type="radio" value="3" name="rating"> &nbsp;
+                                            <input type="radio" value="4" name="rating"> &nbsp;
+                                            <input type="radio" value="5" name="rating"> &nbsp;Good
+                                        </div>
                                     </div>
-                                </div>
-                                <div class="buttons">
-                                    <div class="pull-right">
-                                        <button class="btn btn-primary" id="button-review" type="button">Continue</button>
+                                    <div class="buttons">
+                                        <div class="pull-right">
+                                            <button class="btn btn-primary" id="button-review" type="button">Continue</button>
+                                        </div>
                                     </div>
-                                </div>
-                            </form>
-                        </div>
+                                </form>
+                            </div>
+                        -->
                     </div>
+
                     <h3 class="subtitle">Related Products</h3>
                     <div class="owl-carousel related_pro">
                         <div class="product-thumb">
@@ -183,14 +168,12 @@
                             </div>
                             <div class="caption">
                                 <h4><a href="@Url.RouteUrl("product")">Aspire Ultrabook Laptop</a></h4>
-                                <p class="price"> <span class="price-new">$230.00</span> <span class="price-old">$241.99</span> <span class="saving">-5%</span> </p>
+                                <p class="price"> <span class="price-new">$230.00</span> <span class="price-old">$241.99</span> </p>
                                 <div class="rating"> <span class="fa fa-stack"><i class="fa fa-star fa-stack-2x"></i><i class="fa fa-star-o fa-stack-2x"></i></span> <span class="fa fa-stack"><i class="fa fa-star fa-stack-2x"></i><i class="fa fa-star-o fa-stack-2x"></i></span> <span class="fa fa-stack"><i class="fa fa-star fa-stack-2x"></i><i class="fa fa-star-o fa-stack-2x"></i></span> <span class="fa fa-stack"><i class="fa fa-star fa-stack-2x"></i><i class="fa fa-star-o fa-stack-2x"></i></span> <span class="fa fa-stack"><i class="fa fa-star-o fa-stack-2x"></i></span> </div>
                             </div>
                             <div class="button-group">
                                 <button class="btn-primary" type="button" onClick=""><span>Add to Cart</span></button>
                                 <div class="add-to-links">
-                                    <button type="button" data-toggle="tooltip" title="Add to wishlist" onClick=""><i class="fa fa-heart"></i></button>
-                                    <button type="button" data-toggle="tooltip" title="Add to compare" onClick=""><i class="fa fa-exchange"></i></button>
                                 </div>
                             </div>
                         </div>
@@ -200,13 +183,11 @@
                             </div>
                             <div class="caption">
                                 <h4><a href="@Url.RouteUrl("product")"> Strategies for Acquiring Your Own Laptop </a></h4>
-                                <p class="price"> <span class="price-new">$1,400.00</span> <span class="price-old">$1,900.00</span> <span class="saving">-26%</span> </p>
+                                <p class="price"> <span class="price-new">$1,400.00</span> <span class="price-old">$1,900.00</span> </p>
                             </div>
                             <div class="button-group">
                                 <button class="btn-primary" type="button" onClick=""><span>Add to Cart</span></button>
                                 <div class="add-to-links">
-                                    <button type="button" data-toggle="tooltip" title="Add to wishlist" onClick=""><i class="fa fa-heart"></i></button>
-                                    <button type="button" data-toggle="tooltip" title="Add to compare" onClick=""><i class="fa fa-exchange"></i></button>
                                 </div>
                             </div>
                         </div>
@@ -222,8 +203,6 @@
                             <div class="button-group">
                                 <button class="btn-primary" type="button" onClick=""><span>Add to Cart</span></button>
                                 <div class="add-to-links">
-                                    <button type="button" data-toggle="tooltip" title="Add to wishlist" onClick=""><i class="fa fa-heart"></i></button>
-                                    <button type="button" data-toggle="tooltip" title="Add to compare" onClick=""><i class="fa fa-exchange"></i></button>
                                 </div>
                             </div>
                         </div>
@@ -238,8 +217,6 @@
                             <div class="button-group">
                                 <button class="btn-primary" type="button" onClick=""><span>Add to Cart</span></button>
                                 <div class="add-to-links">
-                                    <button type="button" data-toggle="tooltip" title="Add to wishlist" onClick=""><i class="fa fa-heart"></i></button>
-                                    <button type="button" data-toggle="tooltip" title="Add to compare" onClick=""><i class="fa fa-exchange"></i></button>
                                 </div>
                             </div>
                         </div>
@@ -249,13 +226,11 @@
                             </div>
                             <div class="caption">
                                 <h4><a href="@Url.RouteUrl("product")">Samsung Galaxy S4</a></h4>
-                                <p class="price"> <span class="price-new">$62.00</span> <span class="price-old">$122.00</span> <span class="saving">-50%</span> </p>
+                                <p class="price"> <span class="price-new">$62.00</span> <span class="price-old">$122.00</span>  </p>
                             </div>
                             <div class="button-group">
                                 <button class="btn-primary" type="button" onClick=""><span>Add to Cart</span></button>
                                 <div class="add-to-links">
-                                    <button type="button" data-toggle="tooltip" title="Add to wishlist" onClick=""><i class="fa fa-heart"></i></button>
-                                    <button type="button" data-toggle="tooltip" title="Add to compare" onClick=""><i class="fa fa-exchange"></i></button>
                                 </div>
                             </div>
                         </div>
@@ -270,8 +245,6 @@
                             <div class="button-group">
                                 <button class="btn-primary" type="button" onClick=""><span>Add to Cart</span></button>
                                 <div class="add-to-links">
-                                    <button type="button" data-toggle="tooltip" title="Add to wishlist" onClick=""><i class="fa fa-heart"></i></button>
-                                    <button type="button" data-toggle="tooltip" title="Add to compare" onClick=""><i class="fa fa-exchange"></i></button>
                                 </div>
                             </div>
                         </div>
