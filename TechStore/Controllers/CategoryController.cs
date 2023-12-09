@@ -1,32 +1,39 @@
-using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
+using Microsoft.AspNetCore.Mvc;
+using TechStore.Data;
 using TechStore.Models;
 
 namespace TechStore.Controllers
 {
     public class CategoryController : Controller
     {
-        private readonly ILogger<CategoryController> _logger;
+        private readonly DataContext _context;
+        //private readonly ILogger<CategoryController> _logger;
 
-        public CategoryController(ILogger<CategoryController> logger)
+        public CategoryController(DataContext context)
         {
-            _logger = logger;
+            _context = context;
         }
 
         public IActionResult Category()
         {
+            IQueryable<Category> query = _context.Categories;
+            IEnumerable<Category> categories = query.ToList();
+            ViewBag.categories = categories;
             return View();
         }
 
-        public IActionResult Privacy()
+        public IActionResult Categories(string nom)
         {
-            return View();
-        }
+            IQueryable<Category> query = _context.Categories;
+            IEnumerable<Category> categories = query.ToList();
 
-        [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
-        public IActionResult Error()
-        {
-            return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
+            var category = _context.Categories.Where(c => c.Nom == nom).FirstOrDefault();
+            var products = _context.products.Where(p => p.categoryID == category.id).ToList();
+
+            ViewBag.categories = categories;
+            ViewBag.products = products;
+            return View("Category");
         }
     }
 }
