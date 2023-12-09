@@ -1,5 +1,4 @@
-﻿using System.Data.SqlClient;
-
+﻿
 namespace TechStore.Models
 {
     public class Product
@@ -15,6 +14,11 @@ namespace TechStore.Models
         public Category category { get; set; }
 
         public ICollection<Order> orders { get; set; }
+
+        public string[] loadImages()
+        {
+            return this.images.Split(", ");
+        }
     }
 }
  
