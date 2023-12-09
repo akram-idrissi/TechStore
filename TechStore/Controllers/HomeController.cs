@@ -1,20 +1,25 @@
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
 using TechStore.Models;
+using TechStore.Data;
 
 namespace TechStore.Controllers
 {
     public class HomeController : Controller
     {
+        private readonly DataContext _context;
         private readonly ILogger<HomeController> _logger;
 
-        public HomeController(ILogger<HomeController> logger)
+        public HomeController(DataContext context)
         {
-            _logger = logger;
+            _context = context;
         }
 
         public IActionResult Index()
         {
+            IQueryable<Category> query = _context.Categories;
+            IEnumerable<Category> categories = query.ToList();
+            ViewBag.categories = categories;
             return View();
         }
 
