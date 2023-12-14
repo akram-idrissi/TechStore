@@ -66,8 +66,9 @@
                                 </p>
                             </div>
                             <div class="button-group">
-                                <button class="btn-primary" type="button" onClick="cart.add('42');"><span>Add to
-                                        Cart</span></button>
+                                <button class="btn-primary" type="button" onClick="addToCart(@featuredProduct.id, '@featuredProduct.titre', '@featuredProduct.loadImages()[0]', @featuredProduct.prix);">
+                                    <span>Add to Cart</span>
+                                </button>
                             </div>
                         </div>
                     }

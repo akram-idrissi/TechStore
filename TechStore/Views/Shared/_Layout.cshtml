@@ -24,115 +24,90 @@
 
     <div class="wrapper-wide">
         <div id="header">
-        <!-- Top Bar Start-->
-        <nav id="top" class="htop">
-            <div class="container">
-                <div class="row">
-                    <div id="top-links" class="nav pull-right flip">
-                        <ul>
-                            @if (SignInManager.IsSignedIn(User))
-                            {
-                                <li><a href="@Url.RouteUrl("logout")">Logout</a></li>
-                            } else {
-                                <li><a href="@Url.RouteUrl("register")">Register</a></li>
-                                <li><a href="@Url.RouteUrl("login")">Login</a></li>
-                            }
-                        </ul>
-                    </div>
-                </div>  
-            </div>
-        </nav>
-        <!-- Top Bar End-->
-        <!-- Header Start-->
-        <header class="header-row">
-            <div class="container">
-                <div class="table-container">
-                    <!-- Logo Start -->
-                    <div class="col-table-cell col-lg-6 col-md-6 col-sm-12 col-xs-12 inner">
-                        <div id="logo">
-                                <a href="@Url.RouteUrl("home")"><img class="img-responsive" src="/image/logo2.png" title="TechStore" alt="TechStore" /></a>
-                        </div>
-                    </div>
-                    <!-- Logo End -->
-                    <!-- Mini Cart Start-->
-                    <div class="col-table-cell col-lg-3 col-md-3 col-sm-6 col-xs-12">
-                        <div id="cart">
-                            <button type="button" data-toggle="dropdown" data-loading-text="Loading..." class="heading dropdown-toggle">
-                                <span class="cart-icon pull-left flip bag"></span>
-                                <span id="cart-total" class="red-bubble">2 items</span>
-                                
-                            </button>
-                            <ul class="dropdown-menu">
-                                <li>
-                                    <table class="table">
-                                        <tbody>
-                                            <tr>
-                                                <td class="text-center">
-                                                    <a href="product.html"><img class="img-thumbnail" title="Xitefun Causal Wear Fancy Shoes" alt="Xitefun Causal Wear Fancy Shoes" src="image/product/sony_vaio_1-50x50.jpg"></a>
-                                                </td>
-                                                <td class="text-left"><a href="product.html">Xitefun Causal Wear Fancy Shoes</a></td>
-                                                <td class="text-right">x 1</td>
-                                                <td class="text-right">$902.00</td>
-                                                <td class="text-center">
-                                                    <button class="btn btn-danger btn-xs remove" title="Remove" onClick="" type="button"><i class="fa fa-times"></i></button>
-                                                </td>
-                                            </tr>
-                                            <tr>
-                                                <td class="text-center">
-                                                    <a href="product.html"><img class="img-thumbnail" title="Aspire Ultrabook Laptop" alt="Aspire Ultrabook Laptop" src="image/product/samsung_tab_1-50x50.jpg"></a>
-                                                </td>
-                                                <td class="text-left"><a href="product.html">Aspire Ultrabook Laptop</a></td>
-                                                <td class="text-right">x 1</td>
-                                                <td class="text-right">$230.00</td>
-                                                <td class="text-center">
-                                                    <button class="btn btn-danger btn-xs remove" title="Remove" onClick="" type="button"><i class="fa fa-times"></i></button>
-                                                </td>
-                                            </tr>
-                                        </tbody>
-                                    </table>
-                                </li>
-                                <li>
-                                    <div>
-                                        <table class="table table-bordered">
-                                            <tbody>
-                                                <tr>
-                                                    <td class="text-right"><strong>Sub-Total</strong></td>
-                                                    <td class="text-right">$940.00</td>
-                                                </tr>
-                                                <tr>
-                                                    <td class="text-right"><strong>Eco Tax (-2.00)</strong></td>
-                                                    <td class="text-right">$4.00</td>
-                                                </tr>
-                                                <tr>
-                                                    <td class="text-right"><strong>VAT (20%)</strong></td>
-                                                    <td class="text-right">$188.00</td>
-                                                </tr>
-                                                <tr>
-                                                    <td class="text-right"><strong>Total</strong></td>
-                                                    <td class="text-right">$1,132.00</td>
-                                                </tr>
-                                            </tbody>
-                                        </table>
-                                            <p class="checkout"><a href="@Url.RouteUrl("cart")" class="btn btn-primary"><i class="fa fa-shopping-cart"></i> View Cart</a>&nbsp;&nbsp;&nbsp;<a href="@Url.RouteUrl("checkout")" class="btn btn-primary"><i class="fa fa-share"></i> Checkout</a></p>
-                                    </div>
-                                </li>
+            <!-- Top Bar Start-->
+            <nav id="top" class="htop">
+                <div class="container">
+                    <div class="row">
+                        <div id="top-links" class="nav pull-right flip">
+                            <ul>
+                                @if (SignInManager.IsSignedIn(User))
+                                {
+                                    <li><a href="@Url.RouteUrl("logout")">Logout</a></li>
+                                }
+                                else
+                                {
+                                    <li><a href="@Url.RouteUrl("register")">Register</a></li>
+                                    <li><a href="@Url.RouteUrl("login")">Login</a></li>
+                                }
                             </ul>
                         </div>
                     </div>
-                    <!-- Mini Cart End-->
-                    <!-- Search Start-->
-                    <div class="col-table-cell col-lg-3 col-md-3 col-sm-6 col-xs-12 inner">
-                        <div id="search" class="input-group">
-                            <input id="filter_name" type="text" name="search" value="" placeholder="Search" class="form-control input-lg" />
-                            <button type="button" class="button-search"><i class="fa fa-search"></i></button>
-                        </div>
-                    </div>
-                    <!-- Search End-->
                 </div>
-            </div>
-        </header>
-        <!-- Header End-->
-    </div>
+            </nav>
+            <!-- Top Bar End-->
+            <!-- Header Start-->
+            <header class="header-row">
+                <div class="container">
+                    <div class="table-container">
+                        <!-- Logo Start -->
+                        <div class="col-table-cell col-lg-6 col-md-6 col-sm-12 col-xs-12 inner">
+                            <div id="logo">
+                                <a href="@Url.RouteUrl("home")"><img class="img-responsive" src="/image/logo2.png"
+                                        title="TechStore" alt="TechStore" /></a>
+                            </div>
+                        </div>
+                        <!-- Logo End -->
+                        <!-- Mini Cart Start-->
+                        <div class="col-table-cell col-lg-3 col-md-3 col-sm-6 col-xs-12">
+                            <div id="cart">
+                                <button type="button" data-toggle="dropdown" data-loading-text="Loading..."
+                                    class="heading dropdown-toggle">
+                                    <span class="cart-icon pull-left flip bag"></span>
+                                    <span class="red-bubble"><span id="cart-total">0</span> items</span>
+                                    
+
+                                </button>
+                                <ul class="dropdown-menu">
+                                    <li>
+                                        <table class="table">
+                                            <tbody id="table-cart-list">
+                                            </tbody>
+                                        </table>
+                                    </li>
+                                    <li>
+                                        <div>
+                                            <table class="table table-bordered">
+                                                <tbody>
+                                                    <tr>
+                                                        <td class="text-right"><strong>Total</strong></td>
+                                                        <td class="text-right">$<span class="total"> 0</span> </td>
+                                                    </tr>
+                                                </tbody>
+                                            </table>
+                                            <p class="checkout"><a href="@Url.RouteUrl("cart")"
+                                                    class="btn btn-primary"><i class="fa fa-shopping-cart"></i> View
+                                                    Cart</a>&nbsp;&nbsp;&nbsp;<a href="@Url.RouteUrl("checkout")"
+                                                    class="btn btn-primary"><i class="fa fa-share"></i> Checkout</a></p>
+                                        </div>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                        <!-- Mini Cart End-->
+                        <!-- Search Start-->
+                        @* <div class="col-table-cell col-lg-3 col-md-3 col-sm-6 col-xs-12 inner">
+                        <div id="search" class="input-group">
+                        <input id="filter_name" type="text" name="search" value="" placeholder="Search"
+                        class="form-control input-lg" />
+                        <button type="button" class="button-search"><i class="fa fa-search"></i></button>
+                        </div>
+                        </div> *@
+                        <!-- Search End-->
+                    </div>
+                </div>
+            </header>
+            <!-- Header End-->
+        </div>
 
         <main role="main">
             @RenderBody()
@@ -140,74 +115,84 @@
 
         <!--Footer Start-->
         <footer id="footer">
-        <div class="fpart-first">
-            <div class="container">
-                <div class="row">
-                    <div class="contact col-lg-4 col-md-4 col-sm-12 col-xs-12">
-                        <h5>Contact Details</h5>
-                        <ul>
-                            <li class="address"><i class="fa fa-map-marker"></i>Casablanca, Emsi Orangers</li>
-                            <li class="mobile"><i class="fa fa-phone"></i>+212 6 12 34 56 78</li>
-                            <li class="email"><i class="fa fa-envelope"></i>Send email via our <a href="contact-us.html">Contact Us</a>
-                        </ul>
-                    </div>
+            <div class="fpart-first">
+                <div class="container">
+                    <div class="row">
+                        <div class="contact col-lg-4 col-md-4 col-sm-12 col-xs-12">
+                            <h5>Contact Details</h5>
+                            <ul>
+                                <li class="address"><i class="fa fa-map-marker"></i>Casablanca, Emsi Orangers</li>
+                                <li class="mobile"><i class="fa fa-phone"></i>+212 6 12 34 56 78</li>
+                                <li class="email"><i class="fa fa-envelope"></i>Send email via our <a
+                                        href="contact-us.html">Contact Us</a>
+                            </ul>
+                        </div>
 
-                    <div style="display: flex;justify-content: space-around;">
-                        <div style="width: auto;" class="column col-lg-2 col-md-2 col-sm-3 col-xs-12">
-                            <h5>Information</h5>
-                            <ul>
-                                <li><a href="javascript:void(0)">About Us</a></li>
-                                <li><a href="javascript:void(0)">Delivery Information</a></li>
-                                <li><a href="javascript:void(0)">Privacy Policy</a></li>
-                                <li><a href="javascript:void(0)">Terms &amp; Conditions</a></li>
-                            </ul>
+                        <div style="display: flex;justify-content: space-around;">
+                            <div style="width: auto;" class="column col-lg-2 col-md-2 col-sm-3 col-xs-12">
+                                <h5>Information</h5>
+                                <ul>
+                                    <li><a href="javascript:void(0)">About Us</a></li>
+                                    <li><a href="javascript:void(0)">Delivery Information</a></li>
+                                    <li><a href="javascript:void(0)">Privacy Policy</a></li>
+                                    <li><a href="javascript:void(0)">Terms &amp; Conditions</a></li>
+                                </ul>
+                            </div>
+                            <div style="width: auto;" class="column col-lg-2 col-md-2 col-sm-3 col-xs-12">
+                                <h5>Customer Service</h5>
+                                <ul>
+                                    <li><a href="contact-us.html">Contact Us</a></li>
+                                    <li><a href="#">Returns</a></li>
+                                    <li><a href="sitemap.html">Site Map</a></li>
+                                </ul>
+                            </div>
+                            <div style="width: auto;" class="column col-lg-2 col-md-2 col-sm-3 col-xs-12">
+                                <h5>Extras</h5>
+                                <ul>
+                                    <li><a href="javascript:void(0)">Brands</a></li>
+                                    <li><a href="javascript:void(0)">Gift Vouchers</a></li>
+                                    <li><a href="javascript:void(0)">Affiliates</a></li>
+                                    <li><a href="javascript:void(0)">Specials</a></li>
+                                </ul>
+                            </div>
                         </div>
-                        <div style="width: auto;" class="column col-lg-2 col-md-2 col-sm-3 col-xs-12">
-                            <h5>Customer Service</h5>
-                            <ul>
-                                <li><a href="contact-us.html">Contact Us</a></li>
-                                <li><a href="#">Returns</a></li>
-                                <li><a href="sitemap.html">Site Map</a></li>
-                            </ul>
-                        </div>
-                        <div style="width: auto;" class="column col-lg-2 col-md-2 col-sm-3 col-xs-12">
-                            <h5>Extras</h5>
-                            <ul>
-                                <li><a href="javascript:void(0)">Brands</a></li>
-                                <li><a href="javascript:void(0)">Gift Vouchers</a></li>
-                                <li><a href="javascript:void(0)">Affiliates</a></li>
-                                <li><a href="javascript:void(0)">Specials</a></li>
-                            </ul>
-                        </div>
-                    </div>
 
-                </div>
-            </div>
-        </div>
-        <div class="fpart-second">
-            <div class="container">
-                <div id="powered" class="clearfix">
-                </div>
-                <div class="bottom-row">
-                    <div class="powered_text pull-left flip">
-                        <p>TechStore © 2023 By <a href="https://github.com/akram-idrissi" target="_blank">Akram Mi</a></p>
-                    </div>
-                    <div class="payments_types">
-                        <a href="#" target="_blank"> <img data-toggle="tooltip" src="/image/payment/payment_paypal.png" alt="paypal" title="PayPal"></a>
-                        <a href="#" target="_blank"> <img data-toggle="tooltip" src="/image/payment/payment_american.png" alt="american-express" title="American Express"></a>
-                        <a href="#" target="_blank"> <img data-toggle="tooltip" src="/image/payment/payment_2checkout.png" alt="2checkout" title="2checkout"></a>
-                        <a href="#" target="_blank"> <img data-toggle="tooltip" src="/image/payment/payment_maestro.png" alt="maestro" title="Maestro"></a>
-                        <a href="#" target="_blank"> <img data-toggle="tooltip" src="/image/payment/payment_discover.png" alt="discover" title="Discover"></a>
-                        <a href="#" target="_blank"> <img data-toggle="tooltip" src="/image/payment/payment_mastercard.png" alt="mastercard" title="MasterCard"></a>
                     </div>
                 </div>
             </div>
-        </div>
-        <div id="back-top"><a data-toggle="tooltip" title="Back to Top" href="javascript:void(0)" class="backtotop"><i class="fa fa-chevron-up"></i></a></div>
-    </footer>
+            <div class="fpart-second">
+                <div class="container">
+                    <div id="powered" class="clearfix">
+                    </div>
+                    <div class="bottom-row">
+                        <div class="powered_text pull-left flip">
+                            <p>TechStore © 2023 By <a href="https://github.com/akram-idrissi" target="_blank">Akram
+                                    Mi</a></p>
+                        </div>
+                        <div class="payments_types">
+                            <a href="#" target="_blank"> <img data-toggle="tooltip"
+                                    src="/image/payment/payment_paypal.png" alt="paypal" title="PayPal"></a>
+                            <a href="#" target="_blank"> <img data-toggle="tooltip"
+                                    src="/image/payment/payment_american.png" alt="american-express"
+                                    title="American Express"></a>
+                            <a href="#" target="_blank"> <img data-toggle="tooltip"
+                                    src="/image/payment/payment_2checkout.png" alt="2checkout" title="2checkout"></a>
+                            <a href="#" target="_blank"> <img data-toggle="tooltip"
+                                    src="/image/payment/payment_maestro.png" alt="maestro" title="Maestro"></a>
+                            <a href="#" target="_blank"> <img data-toggle="tooltip"
+                                    src="/image/payment/payment_discover.png" alt="discover" title="Discover"></a>
+                            <a href="#" target="_blank"> <img data-toggle="tooltip"
+                                    src="/image/payment/payment_mastercard.png" alt="mastercard" title="MasterCard"></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div id="back-top"><a data-toggle="tooltip" title="Back to Top" href="javascript:void(0)"
+                    class="backtotop"><i class="fa fa-chevron-up"></i></a></div>
+        </footer>
         <!--Footer End-->
     </div>
-   
+
     <!-- TechStore javascript -->
     <script src="~/js/TechStore/jquery-2.1.1.min.js"></script>
     <script src="~/js/TechStore/bootstrap/js/bootstrap.min.js"></script>
@@ -215,8 +200,10 @@
     <script src="~/js/TechStore/jquery.dcjqaccordion.min.js"></script>
     <script src="~/js/TechStore/owl.carousel.min.js"></script>
     <script src="~/js/TechStore/custom.js"></script>
+    <script src="~/js/TechStore/handleCart.js"></script>
 
     @await RenderSectionAsync("Scripts", required: false)
 
 </body>
+
 </html>
