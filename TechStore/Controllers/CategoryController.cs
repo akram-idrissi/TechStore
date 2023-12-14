@@ -32,6 +32,7 @@ namespace TechStore.Controllers
             var products = _context.products.Where(p => p.categoryID == category.id).ToList();
 
             ViewBag.categories = categories;
+            ViewBag.categoryName = nom;
             ViewBag.products = products;
             return View("Category");
         }
