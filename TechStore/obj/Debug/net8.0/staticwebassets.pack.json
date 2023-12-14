@@ -1761,6 +1761,18 @@
       "PackagePath": "staticwebassets\\image\\slider\\banner-3.jpg"
     },
     {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\slider\\free_shipping.jpg",
+      "PackagePath": "staticwebassets\\image\\slider\\free_shipping.jpg"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\slider\\iphone15.jpg",
+      "PackagePath": "staticwebassets\\image\\slider\\iphone15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\slider\\new_year.jpg",
+      "PackagePath": "staticwebassets\\image\\slider\\new_year.jpg"
+    },
+    {
       "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\image\\socialicons\\bebo.png",
       "PackagePath": "staticwebassets\\image\\socialicons\\bebo.png"
     },
@@ -2007,6 +2019,10 @@
     {
       "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\js\\TechStore\\custom.js",
       "PackagePath": "staticwebassets\\js\\TechStore\\custom.js"
+    },
+    {
+      "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\js\\TechStore\\handleCart.js",
+      "PackagePath": "staticwebassets\\js\\TechStore\\handleCart.js"
     },
     {
       "Id": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\wwwroot\\js\\TechStore\\jquery-2.1.1.min.js",
