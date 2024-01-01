@@ -11,7 +11,7 @@ function row(id, titre, image, prix, qte) {
     </td>
     <td class="text-left">
         <div class="input-group btn-block quantity">
-            <input type="number" value=${qte} name="quantity" class="form-control" />
+            <input type="number" min=1 value=${qte} name="quantity" onChange="updateQuantity(this, ${id}, ${prix})" class="form-control" />
         </div>
     </td>
     <td class="text-right">$ ${prix}</td>
@@ -33,9 +33,37 @@ function populateTable() {
     
 }
 
+function updateQuantity(input, id, prix) {
+    prix = parseInt(prix);
+    let products = localStorage.getItem('products');
+    products = products ? JSON.parse(products) : [];
+
+    let prixTotal = localStorage.getItem('prixTotal');
+    prixTotal = prixTotal > 0 ? prixTotal : 0;
+
+    let oldQuantity = 1;
+    let newQuantity = parseInt(input.value);
+
+    products.forEach((item, index)=>{
+        if (item.id == id) {
+            oldQuantity = item.quantite;
+            item.quantite = newQuantity;
+            return;
+        }
+    })
+
+    if (newQuantity >= 1) {
+        let quantityDifference = newQuantity - parseInt(oldQuantity);
+        prixTotal = parseInt(prixTotal) + (quantityDifference * prix);
+        localStorage.setItem('prixTotal', prixTotal);
+        document.querySelector('.total-price-cart').innerHTML = prixTotal;
+    }
+    localStorage.setItem('products', JSON.stringify(products));
+}
+
 window.onload = function () {
     populateTable();
     let prixTotal = localStorage.getItem('prixTotal');
     prixTotal = prixTotal > 0 ? prixTotal : 0;
-    document.querySelector('.total-price-cart').innerHTML = prixTotal
+    document.querySelector('.total-price-cart').innerHTML = prixTotal;
 }
