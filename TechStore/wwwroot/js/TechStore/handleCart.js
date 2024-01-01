@@ -38,6 +38,7 @@ function addToCart(id, titre, image, prix) {
         "titre": titre,
         "image": image,
         "prix": prix,
+        "quantite": 1,
     }
 
     if (products != undefined && products.length > 0) {
