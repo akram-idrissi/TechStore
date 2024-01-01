@@ -58,41 +58,43 @@
                         </div>
                         <!-- Logo End -->
                         <!-- Mini Cart Start-->
-                        <div class="col-table-cell col-lg-3 col-md-3 col-sm-6 col-xs-12">
-                            <div id="cart">
-                                <button type="button" data-toggle="dropdown" data-loading-text="Loading..."
-                                    class="heading dropdown-toggle">
-                                    <span class="cart-icon pull-left flip bag"></span>
-                                    <span class="red-bubble"><span id="cart-total">0</span> items</span>
-                                    
+                        @if(@ViewData["Title"] != "cart") {
+                            <div class="col-table-cell col-lg-3 col-md-3 col-sm-6 col-xs-12">
+                                <div id="cart">
+                                    <button type="button" data-toggle="dropdown" data-loading-text="Loading..."
+                                        class="heading dropdown-toggle">
+                                        <span class="cart-icon pull-left flip bag"></span>
+                                        <span class="red-bubble"><span id="cart-total">0</span> items</span>
+                                        
 
-                                </button>
-                                <ul class="dropdown-menu">
-                                    <li>
-                                        <table class="table">
-                                            <tbody id="table-cart-list">
-                                            </tbody>
-                                        </table>
-                                    </li>
-                                    <li>
-                                        <div>
-                                            <table class="table table-bordered">
-                                                <tbody>
-                                                    <tr>
-                                                        <td class="text-right"><strong>Total</strong></td>
-                                                        <td class="text-right">$<span class="total"> 0</span> </td>
-                                                    </tr>
+                                    </button>
+                                    <ul class="dropdown-menu">
+                                        <li>
+                                            <table class="table">
+                                                <tbody id="table-cart-list">
                                                 </tbody>
                                             </table>
-                                            <p class="checkout"><a href="@Url.RouteUrl("cart")"
-                                                    class="btn btn-primary"><i class="fa fa-shopping-cart"></i> View
-                                                    Cart</a>&nbsp;&nbsp;&nbsp;<a href="@Url.RouteUrl("checkout")"
-                                                    class="btn btn-primary"><i class="fa fa-share"></i> Checkout</a></p>
-                                        </div>
-                                    </li>
-                                </ul>
+                                        </li>
+                                        <li>
+                                            <div>
+                                                <table class="table table-bordered">
+                                                    <tbody>
+                                                        <tr>
+                                                            <td class="text-right"><strong>Total</strong></td>
+                                                            <td class="text-right">$<span class="total"> 0</span> </td>
+                                                        </tr>
+                                                    </tbody>
+                                                </table>
+                                                <p class="checkout"><a href="@Url.RouteUrl("cart")"
+                                                        class="btn btn-primary"><i class="fa fa-shopping-cart"></i> View
+                                                        Cart</a>&nbsp;&nbsp;&nbsp;<a href="@Url.RouteUrl("checkout")"
+                                                        class="btn btn-primary"><i class="fa fa-share"></i> Checkout</a></p>
+                                            </div>
+                                        </li>
+                                    </ul>
+                                </div>
                             </div>
-                        </div>
+                        }
                         <!-- Mini Cart End-->
                         <!-- Search Start-->
                         @* <div class="col-table-cell col-lg-3 col-md-3 col-sm-6 col-xs-12 inner">
@@ -200,8 +202,12 @@
     <script src="~/js/TechStore/jquery.dcjqaccordion.min.js"></script>
     <script src="~/js/TechStore/owl.carousel.min.js"></script>
     <script src="~/js/TechStore/custom.js"></script>
-    <script src="~/js/TechStore/handleCart.js"></script>
-
+    @if(@ViewData["Title"] == "cart") {
+        <script src="~/js/TechStore/displayCart.js"></script>
+    } else {
+        <script src="~/js/TechStore/handleCart.js"></script>
+    }
+ 
     @await RenderSectionAsync("Scripts", required: false)
 
 </body>

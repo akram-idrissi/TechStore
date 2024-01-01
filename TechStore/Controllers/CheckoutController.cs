@@ -1,6 +1,7 @@
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
 using TechStore.Models;
+using Microsoft.AspNetCore.Authorization;
 
 namespace TechStore.Controllers
 {
@@ -13,6 +14,7 @@ namespace TechStore.Controllers
             _logger = logger;
         }
 
+        [Authorize]
         public IActionResult Checkout()
         {
             return View();

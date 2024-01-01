@@ -85,7 +85,7 @@
                                             <a class="qtyBtn mines" href="javascript:void(0);">-</a>
                                             <div class="clear"></div>
                                         </div>
-                                        <button type="button" id="button-cart" class="btn btn-primary btn-lg">Add to
+                                        <button type="button" id="button-cart" onClick="addToCart(@Model.id, '@Model.titre', '@Model.loadImages()[0]', @Model.prix);" class="btn btn-primary btn-lg">Add to
                                             Cart</button>
                                     </div>
                                     <div>

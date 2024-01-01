@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PaYR72Hb946fYAJ0Na9/MhvPJ/nXJklY9xTWXLND9zZ5ht907pYZgNA9il41I1tEgD+0bNaMjBJzCkvubwJWHQ==",
+  "dgSpecHash": "wP81Ix+/BeOXpLqNHCAZZJHyiZpOHh/JS6jGOyxgNj5xTcotrTXYdIrXTa0yoFzMxvalpbid/lPJSWNDwpEc1w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\TechStore.csproj",
+  "projectFilePath": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\techstore\\TechStore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\akram\\.nuget\\packages\\azure.core\\1.36.0\\azure.core.1.36.0.nupkg.sha512",
     "C:\\Users\\akram\\.nuget\\packages\\azure.identity\\1.10.4\\azure.identity.1.10.4.nupkg.sha512",

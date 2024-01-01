@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\TechStore.csproj": {}
+    "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\techstore\\TechStore.csproj": {}
   },
   "projects": {
-    "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\TechStore.csproj": {
+    "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\techstore\\TechStore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\TechStore.csproj",
+        "projectUniqueName": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\techstore\\TechStore.csproj",
         "projectName": "TechStore",
-        "projectPath": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\TechStore.csproj",
+        "projectPath": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\techstore\\TechStore.csproj",
         "packagesPath": "C:\\Users\\akram\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\TechStore\\obj\\",
+        "outputPath": "C:\\Users\\akram\\Desktop\\programmation\\c# mini projet ecommerce\\TechStore\\techstore\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\akram\\AppData\\Roaming\\NuGet\\NuGet.Config",
