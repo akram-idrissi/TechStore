@@ -4,7 +4,7 @@ namespace TechStore.Models
 {
     public class LoginViewModel
     {
-        [Required(ErrorMessage = "Please enter a username")]
+        [Required(ErrorMessage = "Please enter a username.")]
         public string username { get; set; }
 
         [Required(ErrorMessage = "Please enter a password.")]

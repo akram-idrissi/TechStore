@@ -4,7 +4,7 @@ namespace TechStore.Models
 {
     public class RegisterViewModel
     {
-        [Required(ErrorMessage = "Please enter a nom.")]
+        [Required(ErrorMessage = "Please enter a name.")]
         [StringLength(30)]
         public string username { get; set; }
 
